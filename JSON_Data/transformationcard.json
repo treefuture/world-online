@@ -1,8 +1,8 @@
 {
-  "变身卡": "transformationcard",
+  "变身卡": "transformAtionCard",
   "时效": "invalid",
   "技能": "skill",
-  "transformationcard": [
+  "transformAtionCard": [
     {
       "label": "魔法少女变身卡",
       "value": "魔法少女变身卡",
@@ -38,7 +38,7 @@
       "value": "熔岩元素变身卡",
       "magicHit": 3,
       "attribute": [
-        "魔法物理命中+3%"
+        "魔法命中+3%"
       ],
       "skill": [
         "领悟-燃烧"
@@ -374,7 +374,7 @@
       "label": "天空恶魔变身卡",
       "value": "天空恶魔变身卡",
       "deadly": 200,
-      "ignorecounterAttack": 190,
+      "ignoreCounterAttack": 190,
       "armourBreakingPercentage": 34,
       "movePercentage": 69,
       "attribute": [
@@ -501,7 +501,7 @@
       "value": "俊介变身卡",
       "magicHit": 200,
       "attribute": [
-        "魔法物理命中+200"
+        "魔法命中+200"
       ],
       "skill": [
         "领悟-反击战术"
@@ -669,7 +669,7 @@
     {
       "label": "狂怒灯神变身卡",
       "value": "狂怒灯神变身卡",
-      "ignorecounterAttack": 100,
+      "ignoreCounterAttack": 100,
       "intelligencePercentage": 3,
       "attribute": [
         "无视反击+100",
@@ -779,7 +779,7 @@
     {
       "label": "女娲后裔变身卡",
       "value": "女娲后裔变身卡",
-      "ignorecounterAttack": 100,
+      "ignoreCounterAttack": 100,
       "constitutionPercentage": 3,
       "attribute": [
         "无视反击+100",
@@ -819,7 +819,7 @@
       "attribute": [
         "无视洞察+100",
         "无视魔法反馈+100",
-        "魔法物理命中+10%"
+        "魔法命中+10%"
       ],
       "skill": [
         "生死裁决咒",
@@ -894,7 +894,7 @@
     {
       "label": "黑蛇守卫变身卡",
       "value": "黑蛇守卫变身卡",
-      "ignorecounterAttack": 100,
+      "ignoreCounterAttack": 100,
       "perceptionPercentage": 3,
       "attribute": [
         "无视反击+100",
@@ -936,6 +936,20 @@
       ],
       "channel": "神秘商人处购买，81活动盒子",
       "invalid": "45分钟"
+    },
+    {
+      "label": "可爱猫女变身卡",
+      "value": "可爱猫女变身卡",
+      "punctureDefense": 500,
+      "attribute": [
+        "穿刺防御力+500"
+      ],
+      "skill": [
+        "散魂裂爪"
+      ],
+      "channel": "神秘商人处购买，81活动盒子",
+      "invalid": "45分钟",
+      "dataProvision": "官服-无尽-天子"
     }
   ]
 }

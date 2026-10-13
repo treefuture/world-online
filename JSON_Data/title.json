@@ -895,6 +895,23 @@
           "version": [
             "古德"
           ]
+        },
+        {
+          "label": "与繁星的约定(邪)",
+          "value": "与繁星的约定-邪",
+          "insight": 400,
+          "damageReduction": 400,
+          "attribute": [
+            "洞察+400",
+            "伤害减免+400"
+          ],
+          "channel": "官服-与繁星的约定副本奖励",
+          "type": "副本奖励",
+          "invalid": "永久",
+          "status": "自动绑定",
+          "version": [
+            "古德"
+          ]
         }
       ]
     },
@@ -1017,6 +1034,24 @@
           ]
         },
         {
+          "label": "劳模之星",
+          "value": "劳模之星",
+          "state": 400,
+          "manaShield": 400,
+          "attribute": [
+            "状态抵抗+400",
+            "法力护盾+400"
+          ],
+          "channel": "五一劳动节【劳模特供宝箱】开启【劳模勋章】,【劳模勋章】全服前十玩家可获得",
+          "type": "劳动节专属",
+          "invalid": "永久",
+          "status": "自动绑定",
+          "version": [
+            "小程序",
+            "古德"
+          ]
+        },
+        {
           "label": "火鸡毁灭者",
           "value": "火鸡毁灭者",
           "HPRecovery": 300,
@@ -1131,9 +1166,12 @@
           ]
         },
         {
-          "label": "中秋节快乐(不详)",
+          "label": "中秋节快乐",
           "value": "中秋节快乐",
-          "attribute": [],
+          "attribute": [
+            "任务经验1.8倍",
+            "生命+15%"
+          ],
           "channel": "中秋节活动",
           "type": "中秋节专属",
           "invalid": "一天",
@@ -1150,7 +1188,7 @@
           "bloodVolumePercentage": 13,
           "attribute": [
             "任务经验1.3倍",
-            "生命上限+13%",
+            "生命+13%",
             "佩戴称号上线提示每隔十分钟生效一次"
           ],
           "channel": "教师节活动",
@@ -1170,7 +1208,7 @@
           "bloodVolumePercentage": 15,
           "attribute": [
             "任务经验1.5倍",
-            "生命上限+15%",
+            "生命+15%",
             "佩戴称号上线提示每隔十分钟生效一次"
           ],
           "channel": "母亲节活动",
@@ -1245,7 +1283,7 @@
           "label": "悠悠夏日长",
           "value": "悠悠夏日长",
           "attackTimes": 1,
-          "ignorecounterAttack": 200,
+          "ignoreCounterAttack": 200,
           "attribute": [
             "攻击次数+1",
             "无视反击+200"
@@ -1300,6 +1338,25 @@
           "dataProvision": "玩家-迷途"
         },
         {
+          "label": "爱的宣言",
+          "value": "爱的宣言",
+          "bloodVolumePercentage": 15,
+          "manaPercentage": 15,
+          "attribute": [
+            "生命+15%",
+            "法力+15%"
+          ],
+          "channel": "520活动盒子开启",
+          "type": "情人节活动",
+          "invalid": "一天",
+          "status": "自动绑定",
+          "version": [
+            "小程序",
+            "古德"
+          ],
+          "dataProvision": "小程序二区-百晓生"
+        },
+        {
           "label": "2018新年快乐",
           "value": "2018新年快乐",
           "hitPercentage": 10,
@@ -1346,7 +1403,8 @@
           "invalid": "永久",
           "status": "自动绑定",
           "version": [
-            "古德"
+            "古德",
+            "小程序"
           ],
           "dataProvision": "官服-圣者-李蔓笈"
         },
@@ -1363,7 +1421,8 @@
           "invalid": "一天",
           "status": "自动绑定",
           "version": [
-            "古德"
+            "古德",
+            "小程序"
           ],
           "dataProvision": "官服-神圣-小北的破拳"
         },
@@ -1487,7 +1546,7 @@
           ]
         },
         {
-          "label": "爱神丘比特(3天)",
+          "label": "爱神丘比特",
           "value": "爱神丘比特",
           "state": 99,
           "damageReduction": 99,
@@ -1514,6 +1573,181 @@
           ],
           "channel": "情人节论坛故事活动",
           "type": "情人节活动",
+          "invalid": "永久",
+          "status": "自动绑定",
+          "version": [
+            "古德"
+          ]
+        },
+        {
+          "label": "热爱世界",
+          "value": "热爱世界",
+          "basicHP": 500,
+          "mana": 500,
+          "attribute": [
+            "生命+500",
+            "法力+500"
+          ],
+          "channel": "限时登录活动，【2025年4月22日等级达到60级且战力高于5000的在线玩家均可获得】",
+          "type": "限时登录活动",
+          "invalid": "永久",
+          "status": "自动绑定",
+          "version": [
+            "古德",
+            "小程序"
+          ]
+        },
+        {
+          "label": "时间刺客",
+          "value": "时间刺客",
+          "state": 400,
+          "magicFeedback": 400,
+          "attribute": [
+            "状态抵抗+400",
+            "魔法反馈+400"
+          ],
+          "channel": "活动充值材料合成宝箱开启",
+          "type": "充值活动",
+          "invalid": "永久",
+          "status": "自动绑定",
+          "version": [
+            "古德"
+          ]
+        },
+        {
+          "label": "摸鱼达人",
+          "value": "摸鱼达人",
+          "state": 150,
+          "manaShield": 150,
+          "attribute": [
+            "状态抵抗+150",
+            "法力护盾+150"
+          ],
+          "channel": "2025年劳动节假期结束登录赠送礼盒【护肝礼包(绑)】可开启",
+          "type": "匪夷所思的活动",
+          "invalid": "永久",
+          "status": "自动绑定",
+          "version": [
+            "古德"
+          ]
+        },
+        {
+          "label": "有钱任性",
+          "value": "有钱任性",
+          "statePercentage": 15,
+          "immuneShield": 1,
+          "attribute": [
+            "基础状态抵抗+15%",
+            "免伤护盾+1"
+          ],
+          "channel": "暂无",
+          "type": "暂无",
+          "invalid": "永久",
+          "status": "自动绑定",
+          "version": [
+            "古德"
+          ]
+        },
+        {
+          "label": "笔下生花",
+          "value": "笔下生花",
+          "attackTimes": 1,
+          "taskExperiencePercentage": 1.3,
+          "attribute": [
+            "攻击次数+1",
+            "任务经验1.3倍"
+          ],
+          "channel": "暂无",
+          "type": "暂无",
+          "invalid": "永久",
+          "status": "自动绑定",
+          "version": [
+            "古德"
+          ]
+        },
+        {
+          "label": "已巳如意",
+          "value": "已巳如意",
+          "insight": 400,
+          "ignoreMagicFeedback": 400,
+          "attribute": [
+            "洞察+400",
+            "无视魔法反馈+400"
+          ],
+          "channel": "暂无",
+          "type": "暂无",
+          "invalid": "永久",
+          "status": "自动绑定",
+          "version": [
+            "古德"
+          ]
+        },
+        {
+          "label": "十里春风",
+          "value": "十里春风",
+          "hitPercentage": 10,
+          "dodgePercentage": 10,
+          "attribute": [
+            "物理命中+10%",
+            "躲闪 +10%"
+          ],
+          "channel": "暂无",
+          "type": "暂无",
+          "invalid": "三天",
+          "status": "自动绑定",
+          "version": [
+            "古德"
+          ]
+        },
+        {
+          "label": "金鞍缚龙开新纪(绑)",
+          "value": "金鞍缚龙开新纪(绑)",
+          "magicFeedback": 400,
+          "magicFeedbackPercentage": 20,
+          "attribute": [
+            "魔法反馈+400",
+            "魔法反馈+20%"
+          ],
+          "channel": "2026年新年掉落物活动【金马贺岁】",
+          "type": "新年掉落物排行奖励",
+          "invalid": "永久",
+          "status": "自动绑定",
+          "version": [
+            "古德"
+          ]
+        },
+        {
+          "label": "整蛊大师",
+          "value": "整蛊大师",
+          "attackTimes": 1,
+          "ignoreCounterAttack": 200,
+          "ignoreBlock": 200,
+          "ignoreDamageReduction": 200,
+          "attribute": [
+            "攻击次数+1",
+            "无视反击+200",
+            "无视格挡+200",
+            "无视伤害减免+200"
+          ],
+          "channel": "使用【黏黏口香糖】与【瘙痒羽毛】可到新月古镇繁华之都合成商店兑换合成【整蛊大师礼盒】，开启【整蛊大师礼盒】必得【精粹之石】，还有几率获得【整蛊大师】称号及全新坐骑【彩虹鼻涕虫】",
+          "type": "2026年愚人节活动",
+          "invalid": "永久",
+          "status": "自动绑定",
+          "version": [
+            "古德"
+          ]
+        },
+        {
+          "label": "山河无恙",
+          "value": "山河无恙",
+          "disregardState": 500,
+          "movePercentage": 15,
+          "attribute": [
+            "无视状态抵抗+500",
+            "出手速度+15%"
+          ],
+          "channel": "不详",
+          "type": "不详",
           "invalid": "永久",
           "status": "自动绑定",
           "version": [
@@ -1715,6 +1949,26 @@
           ]
         },
         {
+          "label": "世界大神壕",
+          "value": "世界大神壕",
+          "movePercentage": 15,
+          "immuneShield": 2,
+          "attribute": [
+            "出手速度+15%",
+            "免伤护盾+2"
+          ],
+          "channel": "不详",
+          "type": "不详",
+          "invalid": "永久",
+          "status": "自动绑定",
+          "version": [
+            "小程序",
+            "古德",
+            "世界H5"
+          ],
+          "dataProvision": "腾讯-浩气-情歌王"
+        },
+        {
           "label": "急冻之霜",
           "value": "急冻之霜",
           "movePercentage": 80,
@@ -1758,6 +2012,23 @@
             "无视格挡+200"
           ],
           "channel": "充值活动",
+          "type": "充值活动",
+          "invalid": "永久",
+          "status": "自动绑定",
+          "version": [
+            "古德"
+          ]
+        },
+        {
+          "label": "涌泉之恨",
+          "value": "涌泉之恨",
+          "ignoreInsight": 800,
+          "disregardState": 800,
+          "attribute": [
+            "无视洞察+800",
+            "无视状态抵抗+800"
+          ],
+          "channel": "每逢周三00：00-23：59 单个角色在单日累计充值金额达到￥3000将额外赠送【精致福袋（绑）】*1，累计充值金额达到￥6000将额外赠送【稀有福袋（绑）】*1+【辉煌福袋】*1，累计充值金额达到￥6666将额外赠送【史诗福袋（绑）】*1+【辉煌福袋】*1。【辉煌福袋】可开到极品称号碎片，合成后可获得双800+的无视抵抗和无视洞察属性称号。",
           "type": "充值活动",
           "invalid": "永久",
           "status": "自动绑定",
@@ -2262,7 +2533,7 @@
         {
           "label": "璀璨VIP7",
           "value": "璀璨VIP7",
-          "ignorecounterAttack": 200,
+          "ignoreCounterAttack": 200,
           "ignoreDamageReduction": 200,
           "attribute": [
             "无视反击+200",
@@ -2466,7 +2737,7 @@
           "bloodVolumePercentage": 10,
           "attribute": [
             "任务经验1.5倍",
-            "生命上限+10%"
+            "生命+10%"
           ],
           "channel": "暂无",
           "type": "暂无",
@@ -2523,6 +2794,23 @@
           "channel": "暂无",
           "type": "暂无",
           "invalid": "永久",
+          "status": "自动绑定",
+          "version": [
+            "古德"
+          ]
+        },
+        {
+          "label": "竞技小能手",
+          "value": "竞技小能手",
+          "state": 400,
+          "disregardState": 400,
+          "attribute": [
+            "状态抵抗+400",
+            "无视状态抵抗+400"
+          ],
+          "channel": "天启97打架比赛(第一赛季)单挑赛冠军",
+          "type": "竞技活动",
+          "invalid": "15天",
           "status": "自动绑定",
           "version": [
             "古德"

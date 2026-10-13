@@ -93,7 +93,7 @@
         },
         {
           "label": "无视反击",
-          "value": "ignorecounterAttack"
+          "value": "ignoreCounterAttack"
         },
         {
           "label": "无视魔法反馈",

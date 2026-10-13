@@ -24,7 +24,7 @@
                 "heavyWeaponDamage": 100,
                 "skillAttribute": [
                   "剑类武器伤害、耐久+100%",
-                  "刀类伤害、耐久+100%",
+                  "刀类武器伤害、耐久+100%",
                   "重型武器伤害、耐久+100%"
                 ],
                 "checked": true
@@ -138,7 +138,7 @@
                 "sabreWeaponDamage": 110,
                 "deadly": 60,
                 "skillAttribute": [
-                  "刀类伤害、耐久+110%",
+                  "刀类武器伤害、耐久+110%",
                   "物理命中+60",
                   "无"
                 ],
@@ -150,7 +150,7 @@
                 "sabreAttackTimes": 3,
                 "deadly": 70,
                 "skillAttribute": [
-                  "刀类伤害、耐久+65%",
+                  "刀类武器伤害、耐久+65%",
                   "用刀时攻击次数+3",
                   "致命点+70"
                 ],
@@ -246,7 +246,7 @@
                 "deadly": 80,
                 "sabreAttackTimes": 2,
                 "skillAttribute": [
-                  "刀类伤害、耐久+65%",
+                  "刀类武器伤害、耐久+65%",
                   "致命点+80",
                   "用刀时攻击次数+2"
                 ],
@@ -267,7 +267,7 @@
               {
                 "name": "力量颂歌(22级)",
                 "powerPercentage": 24,
-                "ignorecounterAttack": 185,
+                "ignoreCounterAttack": 185,
                 "forcedHit": 5,
                 "skillAttribute": [
                   "力量+24%",
@@ -336,7 +336,7 @@
                 "checked": true
               },
               {
-                "name": "天魔邪刀追魂五式(22级)",
+                "name": "天魔邪刀追魂伍式(22级)",
                 "skillAttribute": [
                   "目标反击值-385",
                   "法力-600，封魔(20级状态为流血)",
@@ -396,7 +396,7 @@
               }
             },
             "formationNotListed": {
-              "isformation": false,
+              "isFormation": false,
               "checkedFormation": "",
               "position": "未在列阵型",
               "state": false,
@@ -919,7 +919,7 @@
                       "label": "钝器破坏(1级)",
                       "value": 1,
                       "ignoreBlock": 200,
-                      "ignorecounterAttack": 200,
+                      "ignoreCounterAttack": 200,
                       "attribute": [
                         "无视格挡+200",
                         "无视反击+200"
@@ -2366,7 +2366,7 @@
                       "sabreWeaponDamage": 8,
                       "basicChopAttack": 200,
                       "attribute": [
-                        "刀类伤害、耐久+8%",
+                        "刀类武器伤害、耐久+8%",
                         "劈砍攻击力+200"
                       ]
                     }
@@ -2589,7 +2589,7 @@
                 "霜降"
               ],
               "change": [],
-              "talentdata": [
+              "talentData": [
                 {
                   "label": "攻击型-兵器领悟-10级开启",
                   "value": "兵器领悟",
@@ -3248,7 +3248,7 @@
                       "sabreWeaponDamage": 8,
                       "basicChopAttack": 200,
                       "attribute": [
-                        "刀类伤害、耐久+8%",
+                        "刀类武器伤害、耐久+8%",
                         "劈砍攻击力+200"
                       ]
                     }
@@ -6006,7 +6006,7 @@
               "states": false,
               "attributes": {}
             },
-            "equipmentdata": [
+            "equipmentData": [
               {
                 "position": "头盔",
                 "state": true,
@@ -6400,7 +6400,7 @@
                 }
               }
             ],
-            "equipmentdataExtraBonus": {
+            "equipmentDataExtraBonus": {
               "position": "装备额外加成",
               "state": false,
               "states": false,
@@ -6724,7 +6724,7 @@
               "manaAbsorption": 150,
               "HPRecovery": 0,
               "manaRegeneration": 0,
-              "ignorecounterAttack": 185,
+              "ignoreCounterAttack": 185,
               "ignoreMagicFeedback": 0,
               "ignoreBlock": 218,
               "ignoreInsight": 0,
@@ -6797,7 +6797,7 @@
                 "heavyWeaponDamage": 100,
                 "skillAttribute": [
                   "剑类武器伤害、耐久+100%",
-                  "刀类伤害、耐久+100%",
+                  "刀类武器伤害、耐久+100%",
                   "重型武器伤害、耐久+100%"
                 ],
                 "checked": true
@@ -7016,7 +7016,7 @@
               {
                 "name": "力量颂歌(22级)",
                 "powerPercentage": 24,
-                "ignorecounterAttack": 185,
+                "ignoreCounterAttack": 185,
                 "forcedHit": 5,
                 "skillAttribute": [
                   "力量+24%",
@@ -7140,7 +7140,7 @@
               }
             },
             "formationNotListed": {
-              "isformation": false,
+              "isFormation": false,
               "checkedFormation": "",
               "position": "未在列阵型",
               "state": false,
@@ -7663,7 +7663,7 @@
                       "label": "钝器破坏(1级)",
                       "value": 1,
                       "ignoreBlock": 200,
-                      "ignorecounterAttack": 200,
+                      "ignoreCounterAttack": 200,
                       "attribute": [
                         "无视格挡+200",
                         "无视反击+200"
@@ -9110,7 +9110,7 @@
                       "sabreWeaponDamage": 8,
                       "basicChopAttack": 200,
                       "attribute": [
-                        "刀类伤害、耐久+8%",
+                        "刀类武器伤害、耐久+8%",
                         "劈砍攻击力+200"
                       ]
                     }
@@ -9333,7 +9333,7 @@
                 "立冬"
               ],
               "change": [],
-              "talentdata": [
+              "talentData": [
                 {
                   "label": "攻击型-兵器领悟-10级开启",
                   "value": "兵器领悟",
@@ -12754,7 +12754,7 @@
               "states": false,
               "attributes": {}
             },
-            "equipmentdata": [
+            "equipmentData": [
               {
                 "position": "头盔",
                 "state": true,
@@ -13148,7 +13148,7 @@
                 }
               }
             ],
-            "equipmentdataExtraBonus": {
+            "equipmentDataExtraBonus": {
               "position": "装备额外加成",
               "state": false,
               "states": false,
@@ -13472,7 +13472,7 @@
               "manaAbsorption": 150,
               "HPRecovery": 0,
               "manaRegeneration": 0,
-              "ignorecounterAttack": 185,
+              "ignoreCounterAttack": 185,
               "ignoreMagicFeedback": 0,
               "ignoreBlock": 218,
               "ignoreInsight": 0,
@@ -13631,7 +13631,7 @@
               },
               {
                 "name": "要害攻击技巧(22级)",
-                "ignorecounterAttack": 137,
+                "ignoreCounterAttack": 137,
                 "longHandleWeaponDamage": 22,
                 "long-rangeWeaponDamage": 22,
                 "skillAttribute": [
@@ -13801,7 +13801,7 @@
               {
                 "name": "长枪依在(22级)",
                 "ignoreBlock": 280,
-                "ignorecounterAttack": 280,
+                "ignoreCounterAttack": 280,
                 "longHandleAttackTimes": 2,
                 "skillAttribute": [
                   "无视格挡+280",
@@ -13951,7 +13951,7 @@
               }
             },
             "formationNotListed": {
-              "isformation": false,
+              "isFormation": false,
               "checkedFormation": "",
               "position": "未在列阵型",
               "state": false,
@@ -14474,7 +14474,7 @@
                       "label": "钝器破坏(1级)",
                       "value": 1,
                       "ignoreBlock": 200,
-                      "ignorecounterAttack": 200,
+                      "ignoreCounterAttack": 200,
                       "attribute": [
                         "无视格挡+200",
                         "无视反击+200"
@@ -15921,7 +15921,7 @@
                       "sabreWeaponDamage": 8,
                       "basicChopAttack": 200,
                       "attribute": [
-                        "刀类伤害、耐久+8%",
+                        "刀类武器伤害、耐久+8%",
                         "劈砍攻击力+200"
                       ]
                     }
@@ -16144,7 +16144,7 @@
                 "大寒"
               ],
               "change": [],
-              "talentdata": [
+              "talentData": [
                 {
                   "label": "攻击型-兵器领悟-10级开启",
                   "value": "兵器领悟",
@@ -19557,7 +19557,7 @@
               "states": false,
               "attributes": {}
             },
-            "equipmentdata": [
+            "equipmentData": [
               {
                 "position": "头盔",
                 "state": true,
@@ -19951,7 +19951,7 @@
                 }
               }
             ],
-            "equipmentdataExtraBonus": {
+            "equipmentDataExtraBonus": {
               "position": "装备额外加成",
               "state": false,
               "states": false,
@@ -20275,7 +20275,7 @@
               "manaAbsorption": 300,
               "HPRecovery": 0,
               "manaRegeneration": 0,
-              "ignorecounterAttack": 417,
+              "ignoreCounterAttack": 417,
               "ignoreMagicFeedback": 0,
               "ignoreBlock": 498,
               "ignoreInsight": 0,
@@ -20569,7 +20569,7 @@
               {
                 "name": "神工鬼力(22级)",
                 "artilleryWeaponDamage": 85,
-                "ignorecounterAttack": 213,
+                "ignoreCounterAttack": 213,
                 "ignoreBlock": 213,
                 "skillAttribute": [
                   "火枪类武器伤害、耐久+85%",
@@ -20593,7 +20593,7 @@
               {
                 "name": "力量颂歌(22级)",
                 "powerPercentage": 24,
-                "ignorecounterAttack": 185,
+                "ignoreCounterAttack": 185,
                 "forcedHit": 5,
                 "skillAttribute": [
                   "力量+24%",
@@ -20678,7 +20678,7 @@
                 "name": "火枪加持(22级)",
                 "artilleryWeaponDamage": 110,
                 "artilleryAttackTimes": 3,
-                "ignorecounterAttack": 220,
+                "ignoreCounterAttack": 220,
                 "skillAttribute": [
                   "火枪类武器伤害、耐久+110%",
                   "用火枪时攻击次数+3",
@@ -20779,7 +20779,7 @@
               }
             },
             "formationNotListed": {
-              "isformation": false,
+              "isFormation": false,
               "checkedFormation": "",
               "position": "未在列阵型",
               "state": false,
@@ -21302,7 +21302,7 @@
                       "label": "钝器破坏(1级)",
                       "value": 1,
                       "ignoreBlock": 200,
-                      "ignorecounterAttack": 200,
+                      "ignoreCounterAttack": 200,
                       "attribute": [
                         "无视格挡+200",
                         "无视反击+200"
@@ -22749,7 +22749,7 @@
                       "sabreWeaponDamage": 8,
                       "basicChopAttack": 200,
                       "attribute": [
-                        "刀类伤害、耐久+8%",
+                        "刀类武器伤害、耐久+8%",
                         "劈砍攻击力+200"
                       ]
                     }
@@ -22972,7 +22972,7 @@
                 "冬至"
               ],
               "change": [],
-              "talentdata": [
+              "talentData": [
                 {
                   "label": "攻击型-兵器领悟-10级开启",
                   "value": "兵器领悟",
@@ -26401,7 +26401,7 @@
               "states": false,
               "attributes": {}
             },
-            "equipmentdata": [
+            "equipmentData": [
               {
                 "position": "头盔",
                 "state": true,
@@ -26795,7 +26795,7 @@
                 }
               }
             ],
-            "equipmentdataExtraBonus": {
+            "equipmentDataExtraBonus": {
               "position": "装备额外加成",
               "state": false,
               "states": false,
@@ -27119,7 +27119,7 @@
               "manaAbsorption": 300,
               "HPRecovery": 0,
               "manaRegeneration": 0,
-              "ignorecounterAttack": 618,
+              "ignoreCounterAttack": 618,
               "ignoreMagicFeedback": 0,
               "ignoreBlock": 431,
               "ignoreInsight": 0,
@@ -27335,7 +27335,7 @@
                 "checked": true
               },
               {
-                "name": "权杖使用(22级)",
+                "name": "权仗使用(22级)",
                 "staffAttackTimes": 4,
                 "basicMagic": 430,
                 "mana": 740,
@@ -27555,7 +27555,7 @@
               "attributes": {}
             },
             "formationNotListed": {
-              "isformation": false,
+              "isFormation": false,
               "checkedFormation": "",
               "position": "未在列阵型",
               "state": false,
@@ -28078,7 +28078,7 @@
                       "label": "钝器破坏(1级)",
                       "value": 1,
                       "ignoreBlock": 200,
-                      "ignorecounterAttack": 200,
+                      "ignoreCounterAttack": 200,
                       "attribute": [
                         "无视格挡+200",
                         "无视反击+200"
@@ -29525,7 +29525,7 @@
                       "sabreWeaponDamage": 8,
                       "basicChopAttack": 200,
                       "attribute": [
-                        "刀类伤害、耐久+8%",
+                        "刀类武器伤害、耐久+8%",
                         "劈砍攻击力+200"
                       ]
                     }
@@ -29744,7 +29744,7 @@
                 "秋分"
               ],
               "change": [],
-              "talentdata": [
+              "talentData": [
                 {
                   "label": "攻击型-兵器领悟-10级开启",
                   "value": "兵器领悟",
@@ -33035,7 +33035,7 @@
               "states": false,
               "attributes": {}
             },
-            "equipmentdata": [
+            "equipmentData": [
               {
                 "position": "头盔",
                 "state": true,
@@ -33333,7 +33333,7 @@
                 }
               }
             ],
-            "equipmentdataExtraBonus": {
+            "equipmentDataExtraBonus": {
               "position": "装备额外加成",
               "state": false,
               "states": false,
@@ -33617,7 +33617,7 @@
               "manaAbsorption": 283,
               "HPRecovery": 0,
               "manaRegeneration": 370,
-              "ignorecounterAttack": 0,
+              "ignoreCounterAttack": 0,
               "ignoreMagicFeedback": 220,
               "ignoreBlock": 0,
               "ignoreInsight": 133,
@@ -33636,7 +33636,7 @@
             },
             "describe": {
               "passive": true,
-              "passiveDescribe": "智力>魔攻百分比>魔命>感知\n法师攻次不能低于4次，如果觉得攻次够用了则不用学习权杖使用\n如果技能槽不够:雷灵气修炼>飓风侵蚀>狂风加护>凝视归元>瓦釜雷鸣>法术专攻\n雷灵气修炼可以靠装备加到20级，法术的魔穿相对物理而言可以低点，但还是不能太低",
+              "passiveDescribe": "智力>魔攻百分比>魔命>感知\n法师攻次不能低于4次，如果觉得攻次够用了则不用学习权仗使用\n如果技能槽不够:雷灵气修炼>飓风侵蚀>狂风加护>凝视归元>瓦釜雷鸣>法术专攻\n雷灵气修炼可以靠装备加到20级，法术的魔穿相对物理而言可以低点，但还是不能太低",
               "active": true,
               "activeDescribe": "主动技能用装备自带的就行了，如果没有9杖或棒棒糖则可以学习法术专属全屏技能",
               "automatic": true,
@@ -33885,7 +33885,7 @@
               {
                 "name": "落叶飞舞(22级)",
                 "ignoreInsight": 260,
-                "ignorecounterAttack": 260,
+                "ignoreCounterAttack": 260,
                 "disregardState": 260,
                 "skillAttribute": [
                   "无视洞察+260",
@@ -33944,7 +33944,7 @@
               "attributes": {}
             },
             "formationNotListed": {
-              "isformation": true,
+              "isFormation": true,
               "checkedFormation": "东狗附体(天神附体)[二级]",
               "position": "未在列阵型",
               "state": false,
@@ -34467,7 +34467,7 @@
                       "label": "钝器破坏(1级)",
                       "value": 1,
                       "ignoreBlock": 200,
-                      "ignorecounterAttack": 200,
+                      "ignoreCounterAttack": 200,
                       "attribute": [
                         "无视格挡+200",
                         "无视反击+200"
@@ -35914,7 +35914,7 @@
                       "sabreWeaponDamage": 8,
                       "basicChopAttack": 200,
                       "attribute": [
-                        "刀类伤害、耐久+8%",
+                        "刀类武器伤害、耐久+8%",
                         "劈砍攻击力+200"
                       ]
                     }
@@ -36121,7 +36121,7 @@
                 "天罚"
               ],
               "change": [],
-              "talentdata": [
+              "talentData": [
                 {
                   "label": "攻击型-天罚-50级开启",
                   "value": "天罚",
@@ -39010,7 +39010,7 @@
               "states": false,
               "attributes": {}
             },
-            "equipmentdata": [
+            "equipmentData": [
               {
                 "position": "头盔",
                 "state": true,
@@ -39598,7 +39598,7 @@
                 }
               }
             ],
-            "equipmentdataExtraBonus": {
+            "equipmentDataExtraBonus": {
               "position": "装备额外加成",
               "state": false,
               "states": false,
@@ -40086,7 +40086,7 @@
               "manaAbsorption": 0,
               "HPRecovery": 0,
               "manaRegeneration": 0,
-              "ignorecounterAttack": 260,
+              "ignoreCounterAttack": 260,
               "ignoreMagicFeedback": 3343,
               "ignoreBlock": 0,
               "ignoreInsight": 15367,
@@ -40293,7 +40293,7 @@
               {
                 "name": "落叶飞舞(22级)",
                 "ignoreInsight": 260,
-                "ignorecounterAttack": 260,
+                "ignoreCounterAttack": 260,
                 "disregardState": 260,
                 "skillAttribute": [
                   "无视洞察+260",
@@ -40340,7 +40340,7 @@
               "attributes": {}
             },
             "formationNotListed": {
-              "isformation": true,
+              "isFormation": true,
               "checkedFormation": "东狗附体(天神附体)[二级]",
               "position": "未在列阵型",
               "state": false,
@@ -40863,7 +40863,7 @@
                       "label": "钝器破坏(1级)",
                       "value": 1,
                       "ignoreBlock": 200,
-                      "ignorecounterAttack": 200,
+                      "ignoreCounterAttack": 200,
                       "attribute": [
                         "无视格挡+200",
                         "无视反击+200"
@@ -42310,7 +42310,7 @@
                       "sabreWeaponDamage": 8,
                       "basicChopAttack": 200,
                       "attribute": [
-                        "刀类伤害、耐久+8%",
+                        "刀类武器伤害、耐久+8%",
                         "劈砍攻击力+200"
                       ]
                     }
@@ -42517,7 +42517,7 @@
                 "天罚"
               ],
               "change": [],
-              "talentdata": [
+              "talentData": [
                 {
                   "label": "攻击型-天罚-50级开启",
                   "value": "天罚",
@@ -45406,7 +45406,7 @@
               "states": false,
               "attributes": {}
             },
-            "equipmentdata": [
+            "equipmentData": [
               {
                 "position": "头盔",
                 "state": true,
@@ -46003,7 +46003,7 @@
                 }
               }
             ],
-            "equipmentdataExtraBonus": {
+            "equipmentDataExtraBonus": {
               "position": "装备额外加成",
               "state": false,
               "states": false,
@@ -46491,7 +46491,7 @@
               "manaAbsorption": 0,
               "HPRecovery": 0,
               "manaRegeneration": 0,
-              "ignorecounterAttack": 260,
+              "ignoreCounterAttack": 260,
               "ignoreMagicFeedback": 2463,
               "ignoreBlock": 0,
               "ignoreInsight": 3193,
@@ -46849,7 +46849,7 @@
               "attributes": {}
             },
             "formationNotListed": {
-              "isformation": false,
+              "isFormation": false,
               "checkedFormation": "",
               "position": "未在列阵型",
               "state": false,
@@ -47372,7 +47372,7 @@
                       "label": "钝器破坏(1级)",
                       "value": 1,
                       "ignoreBlock": 200,
-                      "ignorecounterAttack": 200,
+                      "ignoreCounterAttack": 200,
                       "attribute": [
                         "无视格挡+200",
                         "无视反击+200"
@@ -48819,7 +48819,7 @@
                       "sabreWeaponDamage": 8,
                       "basicChopAttack": 200,
                       "attribute": [
-                        "刀类伤害、耐久+8%",
+                        "刀类武器伤害、耐久+8%",
                         "劈砍攻击力+200"
                       ]
                     }
@@ -49024,7 +49024,7 @@
               ],
               "value": [],
               "change": [],
-              "talentdata": [],
+              "talentData": [],
               "talentDisplayData": {}
             },
             "artifactSystem": {
@@ -51813,7 +51813,7 @@
               "states": false,
               "attributes": {}
             },
-            "equipmentdata": [
+            "equipmentData": [
               {
                 "position": "头盔",
                 "state": true,
@@ -52298,7 +52298,7 @@
                 }
               }
             ],
-            "equipmentdataExtraBonus": {
+            "equipmentDataExtraBonus": {
               "position": "装备额外加成",
               "state": false,
               "states": false,
@@ -52640,7 +52640,7 @@
               "manaAbsorption": 0,
               "HPRecovery": 0,
               "manaRegeneration": 753,
-              "ignorecounterAttack": 0,
+              "ignoreCounterAttack": 0,
               "ignoreMagicFeedback": 180,
               "ignoreBlock": 0,
               "ignoreInsight": 0,
@@ -53037,7 +53037,7 @@
               "attributes": {}
             },
             "formationNotListed": {
-              "isformation": false,
+              "isFormation": false,
               "checkedFormation": "",
               "position": "未在列阵型",
               "state": false,
@@ -53560,7 +53560,7 @@
                       "label": "钝器破坏(1级)",
                       "value": 1,
                       "ignoreBlock": 200,
-                      "ignorecounterAttack": 200,
+                      "ignoreCounterAttack": 200,
                       "attribute": [
                         "无视格挡+200",
                         "无视反击+200"
@@ -55007,7 +55007,7 @@
                       "sabreWeaponDamage": 8,
                       "basicChopAttack": 200,
                       "attribute": [
-                        "刀类伤害、耐久+8%",
+                        "刀类武器伤害、耐久+8%",
                         "劈砍攻击力+200"
                       ]
                     }
@@ -55216,7 +55216,7 @@
                 "立春"
               ],
               "change": [],
-              "talentdata": [
+              "talentData": [
                 {
                   "label": "防御型-完美格挡-50级开启",
                   "value": "完美格挡",
@@ -58081,7 +58081,7 @@
               "states": false,
               "attributes": {}
             },
-            "equipmentdata": [
+            "equipmentData": [
               {
                 "position": "头盔",
                 "state": true,
@@ -58491,7 +58491,7 @@
                 }
               }
             ],
-            "equipmentdataExtraBonus": {
+            "equipmentDataExtraBonus": {
               "position": "装备额外加成",
               "state": false,
               "states": false,
@@ -58823,7 +58823,7 @@
               "manaAbsorption": 0,
               "HPRecovery": 2100,
               "manaRegeneration": 1990,
-              "ignorecounterAttack": 0,
+              "ignoreCounterAttack": 0,
               "ignoreMagicFeedback": 0,
               "ignoreBlock": 0,
               "ignoreInsight": 0,
@@ -59587,7 +59587,7 @@
               }
             },
             "formationNotListed": {
-              "isformation": false,
+              "isFormation": false,
               "checkedFormation": "",
               "position": "未在列阵型",
               "state": false,
@@ -59927,7 +59927,7 @@
               ],
               "value": [],
               "change": [],
-              "talentdata": [],
+              "talentData": [],
               "talentDisplayData": {}
             },
             "atlasSystem": {
@@ -62580,7 +62580,7 @@
             "arms": "sagacity",
             "minimumWeaponDamage": 0,
             "maximumWeaponDamage": 0,
-            "equipmentdata": [
+            "equipmentData": [
               {
                 "position": "宠物装备1",
                 "state": true,
@@ -62910,7 +62910,7 @@
                 }
               }
             ],
-            "equipmentdataExtraBonus": {
+            "equipmentDataExtraBonus": {
               "position": "装备额外加成",
               "state": false,
               "states": false,
@@ -63002,7 +63002,7 @@
               "manaAbsorption": 0,
               "HPRecovery": 1020,
               "manaRegeneration": 1520,
-              "ignorecounterAttack": 0,
+              "ignoreCounterAttack": 0,
               "ignoreMagicFeedback": 0,
               "ignoreBlock": 250,
               "ignoreInsight": 0,
@@ -63807,7 +63807,7 @@
               }
             },
             "formationNotListed": {
-              "isformation": false,
+              "isFormation": false,
               "checkedFormation": "",
               "position": "未在列阵型",
               "state": false,
@@ -64147,7 +64147,7 @@
               ],
               "value": [],
               "change": [],
-              "talentdata": [],
+              "talentData": [],
               "talentDisplayData": {}
             },
             "atlasSystem": {
@@ -66800,7 +66800,7 @@
             "arms": "sagacity",
             "minimumWeaponDamage": 0,
             "maximumWeaponDamage": 0,
-            "equipmentdata": [
+            "equipmentData": [
               {
                 "position": "宠物装备1",
                 "state": true,
@@ -67130,7 +67130,7 @@
                 }
               }
             ],
-            "equipmentdataExtraBonus": {
+            "equipmentDataExtraBonus": {
               "position": "装备额外加成",
               "state": false,
               "states": false,
@@ -67222,7 +67222,7 @@
               "manaAbsorption": 0,
               "HPRecovery": 1020,
               "manaRegeneration": 1520,
-              "ignorecounterAttack": 0,
+              "ignoreCounterAttack": 0,
               "ignoreMagicFeedback": 0,
               "ignoreBlock": 250,
               "ignoreInsight": 0,
@@ -68031,7 +68031,7 @@
               }
             },
             "formationNotListed": {
-              "isformation": false,
+              "isFormation": false,
               "checkedFormation": "",
               "position": "未在列阵型",
               "state": false,
@@ -68371,7 +68371,7 @@
               ],
               "value": [],
               "change": [],
-              "talentdata": [],
+              "talentData": [],
               "talentDisplayData": {}
             },
             "atlasSystem": {
@@ -71024,7 +71024,7 @@
             "arms": "sagacity",
             "minimumWeaponDamage": 0,
             "maximumWeaponDamage": 0,
-            "equipmentdata": [
+            "equipmentData": [
               {
                 "position": "宠物装备1",
                 "state": true,
@@ -71338,7 +71338,7 @@
                 }
               }
             ],
-            "equipmentdataExtraBonus": {
+            "equipmentDataExtraBonus": {
               "position": "装备额外加成",
               "state": false,
               "states": false,
@@ -71430,7 +71430,7 @@
               "manaAbsorption": 0,
               "HPRecovery": 1020,
               "manaRegeneration": 1520,
-              "ignorecounterAttack": 0,
+              "ignoreCounterAttack": 0,
               "ignoreMagicFeedback": 0,
               "ignoreBlock": 250,
               "ignoreInsight": 0,
@@ -72102,7 +72102,7 @@
               }
             },
             "formationNotListed": {
-              "isformation": false,
+              "isFormation": false,
               "checkedFormation": "",
               "position": "未在列阵型",
               "state": false,
@@ -72442,7 +72442,7 @@
               ],
               "value": [],
               "change": [],
-              "talentdata": [],
+              "talentData": [],
               "talentDisplayData": {}
             },
             "atlasSystem": {
@@ -75095,7 +75095,7 @@
             "arms": "sagacity",
             "minimumWeaponDamage": 0,
             "maximumWeaponDamage": 0,
-            "equipmentdata": [
+            "equipmentData": [
               {
                 "position": "宠物装备1",
                 "state": true,
@@ -75425,7 +75425,7 @@
                 }
               }
             ],
-            "equipmentdataExtraBonus": {
+            "equipmentDataExtraBonus": {
               "position": "装备额外加成",
               "state": false,
               "states": false,
@@ -75517,7 +75517,7 @@
               "manaAbsorption": 0,
               "HPRecovery": 1020,
               "manaRegeneration": 1520,
-              "ignorecounterAttack": 0,
+              "ignoreCounterAttack": 0,
               "ignoreMagicFeedback": 0,
               "ignoreBlock": 0,
               "ignoreInsight": 0,
@@ -76066,7 +76066,7 @@
               "attributes": {}
             },
             "formationNotListed": {
-              "isformation": false,
+              "isFormation": false,
               "checkedFormation": "",
               "position": "未在列阵型",
               "state": false,
@@ -76406,7 +76406,7 @@
               ],
               "value": [],
               "change": [],
-              "talentdata": [],
+              "talentData": [],
               "talentDisplayData": {}
             },
             "atlasSystem": {
@@ -79059,7 +79059,7 @@
             "arms": "sagacity",
             "minimumWeaponDamage": 0,
             "maximumWeaponDamage": 0,
-            "equipmentdata": [
+            "equipmentData": [
               {
                 "position": "宠物装备1",
                 "state": true,
@@ -79389,7 +79389,7 @@
                 }
               }
             ],
-            "equipmentdataExtraBonus": {
+            "equipmentDataExtraBonus": {
               "position": "装备额外加成",
               "state": false,
               "states": false,
@@ -79481,7 +79481,7 @@
               "manaAbsorption": 0,
               "HPRecovery": 0,
               "manaRegeneration": 900,
-              "ignorecounterAttack": 0,
+              "ignoreCounterAttack": 0,
               "ignoreMagicFeedback": 0,
               "ignoreBlock": 0,
               "ignoreInsight": 0,
@@ -79858,7 +79858,7 @@
               "attributes": {}
             },
             "formationNotListed": {
-              "isformation": false,
+              "isFormation": false,
               "checkedFormation": "",
               "position": "未在列阵型",
               "state": false,
@@ -80381,7 +80381,7 @@
                       "label": "钝器破坏(1级)",
                       "value": 1,
                       "ignoreBlock": 200,
-                      "ignorecounterAttack": 200,
+                      "ignoreCounterAttack": 200,
                       "attribute": [
                         "无视格挡+200",
                         "无视反击+200"
@@ -81828,7 +81828,7 @@
                       "sabreWeaponDamage": 8,
                       "basicChopAttack": 200,
                       "attribute": [
-                        "刀类伤害、耐久+8%",
+                        "刀类武器伤害、耐久+8%",
                         "劈砍攻击力+200"
                       ]
                     }
@@ -82033,7 +82033,7 @@
               ],
               "value": [],
               "change": [],
-              "talentdata": [],
+              "talentData": [],
               "talentDisplayData": {}
             },
             "artifactSystem": {
@@ -84833,7 +84833,7 @@
               "states": false,
               "attributes": {}
             },
-            "equipmentdata": [
+            "equipmentData": [
               {
                 "position": "头盔",
                 "state": true,
@@ -85517,7 +85517,7 @@
                 }
               }
             ],
-            "equipmentdataExtraBonus": {
+            "equipmentDataExtraBonus": {
               "position": "装备额外加成",
               "state": false,
               "states": false,
@@ -86043,7 +86043,7 @@
               "manaAbsorption": 0,
               "HPRecovery": 678,
               "manaRegeneration": 1580,
-              "ignorecounterAttack": 0,
+              "ignoreCounterAttack": 0,
               "ignoreMagicFeedback": 289,
               "ignoreBlock": 163,
               "ignoreInsight": 1976,
@@ -86062,7 +86062,7 @@
             },
             "describe": {
               "passive": true,
-              "passiveDescribe": "致命蝎刺(1级)\n魔法增效(21级)\n书本知识(12+10)\n灵兽生存训练(12级)\n大地之息(22级)\n霸气诀(10级)\n权杖使用(1级)\n神器重铸(21级)\n御风术(1级)\n灵性根基(0+2)\n神秘学(0+5)\n加的为装备技能附带技能\n以上装备还不及20个，如果还有剩余的技能点且洞察不足的情况下可以学学锤师岚舞的技能",
+              "passiveDescribe": "致命蝎刺(1级)\n魔法增效(21级)\n书本知识(12+10)\n灵兽生存训练(12级)\n大地之息(22级)\n霸气诀(10级)\n权仗使用(1级)\n神器重铸(21级)\n御风术(1级)\n灵性根基(0+2)\n神秘学(0+5)\n加的为装备技能附带技能\n以上装备还不及20个，如果还有剩余的技能点且洞察不足的情况下可以学学锤师岚舞的技能",
               "active": true,
               "activeDescribe": "吸血鬼之触(21级)==>敌单体，诅咒攻击，扣除最大生命值21%的伤害，恢复自身生命+11%，持续回合：2，耗蓝：220，武器限制：法杖\n女妖之嚎(22级)\n雷暴术(0+1)",
               "automatic": true,
@@ -86479,7 +86479,7 @@
               "attributes": {}
             },
             "formationNotListed": {
-              "isformation": false,
+              "isFormation": false,
               "checkedFormation": "",
               "position": "未在列阵型",
               "state": false,
@@ -87002,7 +87002,7 @@
                       "label": "钝器破坏(1级)",
                       "value": 1,
                       "ignoreBlock": 200,
-                      "ignorecounterAttack": 200,
+                      "ignoreCounterAttack": 200,
                       "attribute": [
                         "无视格挡+200",
                         "无视反击+200"
@@ -88449,7 +88449,7 @@
                       "sabreWeaponDamage": 8,
                       "basicChopAttack": 200,
                       "attribute": [
-                        "刀类伤害、耐久+8%",
+                        "刀类武器伤害、耐久+8%",
                         "劈砍攻击力+200"
                       ]
                     }
@@ -88654,7 +88654,7 @@
               ],
               "value": [],
               "change": [],
-              "talentdata": [],
+              "talentData": [],
               "talentDisplayData": {}
             },
             "artifactSystem": {
@@ -91463,7 +91463,7 @@
               "states": false,
               "attributes": {}
             },
-            "equipmentdata": [
+            "equipmentData": [
               {
                 "position": "头盔",
                 "state": true,
@@ -92123,7 +92123,7 @@
                 }
               }
             ],
-            "equipmentdataExtraBonus": {
+            "equipmentDataExtraBonus": {
               "position": "装备额外加成",
               "state": false,
               "states": false,
@@ -92589,7 +92589,7 @@
               "manaAbsorption": 30,
               "HPRecovery": 437,
               "manaRegeneration": 0,
-              "ignorecounterAttack": 0,
+              "ignoreCounterAttack": 0,
               "ignoreMagicFeedback": 2174,
               "ignoreBlock": 0,
               "ignoreInsight": 1956,
@@ -92759,7 +92759,7 @@
               },
               {
                 "name": "空中捕猎(9级)",
-                "ignorecounterAttack": 190,
+                "ignoreCounterAttack": 190,
                 "armourBreakingPercentage": 34,
                 "movePercentage": 69,
                 "skillAttribute": [
@@ -92823,7 +92823,7 @@
               {
                 "name": "天性技巧(9级)",
                 "armourBreakingPercentage": 60,
-                "ignorecounterAttack": 500,
+                "ignoreCounterAttack": 500,
                 "ignoreBlock": 500,
                 "skillAttribute": [
                   "宠物破甲+60%",
@@ -93127,7 +93127,7 @@
               }
             },
             "formationNotListed": {
-              "isformation": false,
+              "isFormation": false,
               "checkedFormation": "",
               "position": "未在列阵型",
               "state": false,
@@ -93467,7 +93467,7 @@
               ],
               "value": [],
               "change": [],
-              "talentdata": [],
+              "talentData": [],
               "talentDisplayData": {}
             },
             "atlasSystem": {
@@ -96120,7 +96120,7 @@
             "arms": "brave",
             "minimumWeaponDamage": 43,
             "maximumWeaponDamage": 1000,
-            "equipmentdata": [
+            "equipmentData": [
               {
                 "position": "宠物装备1",
                 "state": false,
@@ -96226,7 +96226,7 @@
                 "gemstones": {}
               }
             ],
-            "equipmentdataExtraBonus": {
+            "equipmentDataExtraBonus": {
               "position": "装备额外加成",
               "state": false,
               "states": false,
@@ -96318,7 +96318,7 @@
               "manaAbsorption": 160,
               "HPRecovery": 1020,
               "manaRegeneration": 1220,
-              "ignorecounterAttack": 690,
+              "ignoreCounterAttack": 690,
               "ignoreMagicFeedback": 0,
               "ignoreBlock": 750,
               "ignoreInsight": 0,
@@ -96475,7 +96475,7 @@
               {
                 "name": "天性技巧(9级)",
                 "armourBreakingPercentage": 60,
-                "ignorecounterAttack": 500,
+                "ignoreCounterAttack": 500,
                 "ignoreBlock": 500,
                 "skillAttribute": [
                   "宠物破甲+60%",
@@ -96716,7 +96716,7 @@
               }
             },
             "formationNotListed": {
-              "isformation": false,
+              "isFormation": false,
               "checkedFormation": "",
               "position": "未在列阵型",
               "state": false,
@@ -97056,7 +97056,7 @@
               ],
               "value": [],
               "change": [],
-              "talentdata": [],
+              "talentData": [],
               "talentDisplayData": {}
             },
             "atlasSystem": {
@@ -99709,7 +99709,7 @@
             "arms": "brave",
             "minimumWeaponDamage": 40,
             "maximumWeaponDamage": 1000,
-            "equipmentdata": [
+            "equipmentData": [
               {
                 "position": "宠物装备1",
                 "state": false,
@@ -99815,7 +99815,7 @@
                 "gemstones": {}
               }
             ],
-            "equipmentdataExtraBonus": {
+            "equipmentDataExtraBonus": {
               "position": "装备额外加成",
               "state": false,
               "states": false,
@@ -99907,7 +99907,7 @@
               "manaAbsorption": 160,
               "HPRecovery": 1020,
               "manaRegeneration": 1220,
-              "ignorecounterAttack": 500,
+              "ignoreCounterAttack": 500,
               "ignoreMagicFeedback": 0,
               "ignoreBlock": 750,
               "ignoreInsight": 0,
@@ -99998,7 +99998,7 @@
               },
               {
                 "name": "空中捕猎(9级)",
-                "ignorecounterAttack": 190,
+                "ignoreCounterAttack": 190,
                 "armourBreakingPercentage": 34,
                 "movePercentage": 69,
                 "skillAttribute": [
@@ -100357,7 +100357,7 @@
               }
             },
             "formationNotListed": {
-              "isformation": false,
+              "isFormation": false,
               "checkedFormation": "",
               "position": "未在列阵型",
               "state": false,
@@ -100697,7 +100697,7 @@
               ],
               "value": [],
               "change": [],
-              "talentdata": [],
+              "talentData": [],
               "talentDisplayData": {}
             },
             "atlasSystem": {
@@ -103350,7 +103350,7 @@
             "arms": "brave",
             "minimumWeaponDamage": 34,
             "maximumWeaponDamage": 900,
-            "equipmentdata": [
+            "equipmentData": [
               {
                 "position": "宠物装备1",
                 "state": false,
@@ -103456,7 +103456,7 @@
                 "gemstones": {}
               }
             ],
-            "equipmentdataExtraBonus": {
+            "equipmentDataExtraBonus": {
               "position": "装备额外加成",
               "state": false,
               "states": false,
@@ -103548,7 +103548,7 @@
               "manaAbsorption": 160,
               "HPRecovery": 1020,
               "manaRegeneration": 1220,
-              "ignorecounterAttack": 190,
+              "ignoreCounterAttack": 190,
               "ignoreMagicFeedback": 0,
               "ignoreBlock": 250,
               "ignoreInsight": 0,
@@ -103907,7 +103907,7 @@
               "attributes": {}
             },
             "formationNotListed": {
-              "isformation": false,
+              "isFormation": false,
               "checkedFormation": "",
               "position": "未在列阵型",
               "state": false,
@@ -104046,7 +104046,7 @@
               "states": false,
               "attributes": {}
             },
-            "equipmentdata": [
+            "equipmentData": [
               {
                 "position": "头盔",
                 "state": true,
@@ -104360,7 +104360,7 @@
                 }
               }
             ],
-            "equipmentdataExtraBonus": {
+            "equipmentDataExtraBonus": {
               "position": "装备额外加成",
               "state": false,
               "states": false,
@@ -104696,7 +104696,7 @@
               "manaAbsorption": 0,
               "HPRecovery": 0,
               "manaRegeneration": 0,
-              "ignorecounterAttack": 0,
+              "ignoreCounterAttack": 0,
               "ignoreMagicFeedback": 0,
               "ignoreBlock": 218,
               "ignoreInsight": 0,
@@ -104986,7 +104986,7 @@
               "attributes": {}
             },
             "formationNotListed": {
-              "isformation": false,
+              "isFormation": false,
               "checkedFormation": "",
               "position": "未在列阵型",
               "state": false,
@@ -105055,7 +105055,7 @@
                 "equipment": [],
                 "quality": "",
                 "equipmentLock": false,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -105105,7 +105105,7 @@
                 "equipment": [],
                 "quality": "",
                 "equipmentLock": false,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -105151,7 +105151,7 @@
               "states": false,
               "attributes": {}
             },
-            "equipmentdata": [
+            "equipmentData": [
               {
                 "position": "头盔",
                 "state": true,
@@ -105164,7 +105164,7 @@
                 "equipment": "紫云兜帽",
                 "quality": "史诗",
                 "equipmentLock": true,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -105290,7 +105290,7 @@
                 "equipment": "紫云衬肩",
                 "quality": "史诗",
                 "equipmentLock": true,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -105416,7 +105416,7 @@
                 "equipment": [],
                 "quality": "",
                 "equipmentLock": false,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -105505,7 +105505,7 @@
                 "equipment": "葬送影衣",
                 "quality": "史诗",
                 "equipmentLock": true,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -105631,7 +105631,7 @@
                 "equipment": "紫云腰带",
                 "quality": "史诗",
                 "equipmentLock": true,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -105757,7 +105757,7 @@
                 "equipment": "紫云手套",
                 "quality": "史诗",
                 "equipmentLock": true,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -105883,7 +105883,7 @@
                 "equipment": "紫云长裤",
                 "quality": "史诗",
                 "equipmentLock": true,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -106009,7 +106009,7 @@
                 "equipment": "紫云长靴",
                 "quality": "史诗",
                 "equipmentLock": true,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -106124,7 +106124,7 @@
                 }
               }
             ],
-            "equipmentdataExtraBonus": {
+            "equipmentDataExtraBonus": {
               "position": "装备额外加成",
               "state": true,
               "states": true,
@@ -106176,7 +106176,7 @@
                 "equipment": [],
                 "quality": "史诗",
                 "equipmentLock": false,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -106218,7 +106218,7 @@
                 "equipment": [],
                 "quality": "",
                 "equipmentLock": false,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -106279,7 +106279,7 @@
                 "equipment": [],
                 "quality": "史诗",
                 "equipmentLock": false,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -106321,7 +106321,7 @@
                 "equipment": [],
                 "quality": "史诗",
                 "equipmentLock": false,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -106369,7 +106369,7 @@
                 "equipment": [],
                 "quality": "",
                 "equipmentLock": false,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -106433,7 +106433,7 @@
                 "equipment": [],
                 "quality": "",
                 "equipmentLock": false,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -106564,7 +106564,7 @@
               "manaAbsorption": 0,
               "HPRecovery": 0,
               "manaRegeneration": 2455,
-              "ignorecounterAttack": 0,
+              "ignoreCounterAttack": 0,
               "ignoreMagicFeedback": 180,
               "ignoreBlock": 0,
               "ignoreInsight": 0,
@@ -106927,7 +106927,7 @@
               "attributes": {}
             },
             "formationNotListed": {
-              "isformation": false,
+              "isFormation": false,
               "checkedFormation": "",
               "position": "未在列阵型",
               "state": false,
@@ -106996,7 +106996,7 @@
                 "equipment": [],
                 "quality": "",
                 "equipmentLock": false,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -107046,7 +107046,7 @@
                 "equipment": [],
                 "quality": "",
                 "equipmentLock": false,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -107092,7 +107092,7 @@
               "states": false,
               "attributes": {}
             },
-            "equipmentdata": [
+            "equipmentData": [
               {
                 "position": "头盔",
                 "state": true,
@@ -107105,7 +107105,7 @@
                 "equipment": "紫云兜帽",
                 "quality": "史诗",
                 "equipmentLock": true,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -107231,7 +107231,7 @@
                 "equipment": "紫云衬肩",
                 "quality": "史诗",
                 "equipmentLock": true,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -107357,7 +107357,7 @@
                 "equipment": [],
                 "quality": "",
                 "equipmentLock": false,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -107446,7 +107446,7 @@
                 "equipment": "葬送影衣",
                 "quality": "史诗",
                 "equipmentLock": true,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -107572,7 +107572,7 @@
                 "equipment": "紫云腰带",
                 "quality": "史诗",
                 "equipmentLock": true,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -107698,7 +107698,7 @@
                 "equipment": "紫云手套",
                 "quality": "史诗",
                 "equipmentLock": true,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -107824,7 +107824,7 @@
                 "equipment": "紫云长裤",
                 "quality": "史诗",
                 "equipmentLock": true,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -107950,7 +107950,7 @@
                 "equipment": "紫云长靴",
                 "quality": "史诗",
                 "equipmentLock": true,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -108065,7 +108065,7 @@
                 }
               }
             ],
-            "equipmentdataExtraBonus": {
+            "equipmentDataExtraBonus": {
               "position": "装备额外加成",
               "state": true,
               "states": true,
@@ -108117,7 +108117,7 @@
                 "equipment": [],
                 "quality": "史诗",
                 "equipmentLock": false,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -108159,7 +108159,7 @@
                 "equipment": [],
                 "quality": "",
                 "equipmentLock": false,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -108220,7 +108220,7 @@
                 "equipment": [],
                 "quality": "史诗",
                 "equipmentLock": false,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -108262,7 +108262,7 @@
                 "equipment": [],
                 "quality": "史诗",
                 "equipmentLock": false,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -108310,7 +108310,7 @@
                 "equipment": [],
                 "quality": "",
                 "equipmentLock": false,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -108374,7 +108374,7 @@
                 "equipment": [],
                 "quality": "",
                 "equipmentLock": false,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -108505,7 +108505,7 @@
               "manaAbsorption": 0,
               "HPRecovery": 0,
               "manaRegeneration": 2455,
-              "ignorecounterAttack": 0,
+              "ignoreCounterAttack": 0,
               "ignoreMagicFeedback": 180,
               "ignoreBlock": 0,
               "ignoreInsight": 0,
@@ -108946,7 +108946,7 @@
               "attributes": {}
             },
             "formationNotListed": {
-              "isformation": false,
+              "isFormation": false,
               "checkedFormation": "",
               "position": "未在列阵型",
               "state": false,
@@ -108975,7 +108975,7 @@
             "arms": "sagacity",
             "minimumWeaponDamage": 25,
             "maximumWeaponDamage": 420,
-            "equipmentdata": [
+            "equipmentData": [
               {
                 "position": "宠物装备1",
                 "state": true,
@@ -108987,7 +108987,7 @@
                 "equipment": [],
                 "quality": "",
                 "equipmentLock": false,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -109037,7 +109037,7 @@
                 "equipment": [],
                 "quality": "",
                 "equipmentLock": false,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -109087,7 +109087,7 @@
                 "equipment": [],
                 "quality": "",
                 "equipmentLock": false,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -109137,7 +109137,7 @@
                 "equipment": [],
                 "quality": "",
                 "equipmentLock": false,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -109187,7 +109187,7 @@
                 "equipment": [],
                 "quality": "",
                 "equipmentLock": false,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -109237,7 +109237,7 @@
                 "equipment": [],
                 "quality": "",
                 "equipmentLock": false,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -109287,7 +109287,7 @@
                 "equipment": [],
                 "quality": "",
                 "equipmentLock": false,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -109337,7 +109337,7 @@
                 "equipment": [],
                 "quality": "",
                 "equipmentLock": false,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -109377,7 +109377,7 @@
                 }
               }
             ],
-            "equipmentdataExtraBonus": {
+            "equipmentDataExtraBonus": {
               "position": "装备额外加成",
               "state": false,
               "states": false,
@@ -109390,7 +109390,7 @@
               "activeDescribe": "作为全幻影的顶梁柱，魂焰必须拥有自己的保命技能，无论是零度还是暴走，至少需要有一个，不然很有可能会出现宠物死了人物也撑不住的情况。",
               "automatic": true,
               "automaticDescribe": "因为副本怪物的出手普遍都比较高，所以魂焰有必要学习一个瞬间提速提升其释放主动技能的速度，不过需要注意的是瞬间提速带来的速度的提升是巨大的，如果是清增益的副本不建议单开，实际上90%的副本都没有单开的必要，但是也有些时候具有特殊情况，这就需要考验个人的判断力了。",
-              "petBorns": false,
+              "petBorn": false,
               "petBornDescribe": "",
               "equipment": false,
               "equipmentDescribe": ""
@@ -109483,7 +109483,7 @@
               "manaAbsorption": 0,
               "HPRecovery": 1020,
               "manaRegeneration": 2120,
-              "ignorecounterAttack": 0,
+              "ignoreCounterAttack": 0,
               "ignoreMagicFeedback": 0,
               "ignoreBlock": 0,
               "ignoreInsight": 0,
@@ -109783,7 +109783,7 @@
               "attributes": {}
             },
             "formationNotListed": {
-              "isformation": false,
+              "isFormation": false,
               "checkedFormation": "",
               "position": "未在列阵型",
               "state": false,
@@ -109812,7 +109812,7 @@
             "arms": "fast",
             "minimumWeaponDamage": 50,
             "maximumWeaponDamage": 900,
-            "equipmentdata": [
+            "equipmentData": [
               {
                 "position": "宠物装备1",
                 "state": true,
@@ -109824,7 +109824,7 @@
                 "equipment": [],
                 "quality": "",
                 "equipmentLock": false,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -109874,7 +109874,7 @@
                 "equipment": [],
                 "quality": "",
                 "equipmentLock": false,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -109924,7 +109924,7 @@
                 "equipment": [],
                 "quality": "",
                 "equipmentLock": false,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -109974,7 +109974,7 @@
                 "equipment": [],
                 "quality": "",
                 "equipmentLock": false,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -110024,7 +110024,7 @@
                 "equipment": [],
                 "quality": "",
                 "equipmentLock": false,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -110074,7 +110074,7 @@
                 "equipment": [],
                 "quality": "",
                 "equipmentLock": false,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -110124,7 +110124,7 @@
                 "equipment": [],
                 "quality": "",
                 "equipmentLock": false,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -110174,7 +110174,7 @@
                 "equipment": [],
                 "quality": "",
                 "equipmentLock": false,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -110214,7 +110214,7 @@
                 }
               }
             ],
-            "equipmentdataExtraBonus": {
+            "equipmentDataExtraBonus": {
               "position": "装备额外加成",
               "state": false,
               "states": false,
@@ -110227,7 +110227,7 @@
               "activeDescribe": "打副本一般学习独角冲击，独角之怒砍又没有特殊情况学习",
               "automatic": false,
               "automaticDescribe": "",
-              "petBorns": false,
+              "petBorn": false,
               "petBornDescribe": "",
               "equipment": false,
               "equipmentDescribe": ""
@@ -110320,7 +110320,7 @@
               "manaAbsorption": 0,
               "HPRecovery": 1020,
               "manaRegeneration": 1520,
-              "ignorecounterAttack": 200,
+              "ignoreCounterAttack": 200,
               "ignoreMagicFeedback": 0,
               "ignoreBlock": 750,
               "ignoreInsight": 0,
@@ -110486,7 +110486,7 @@
               "attributes": {}
             },
             "formationNotListed": {
-              "isformation": false,
+              "isFormation": false,
               "checkedFormation": "",
               "position": "未在列阵型",
               "state": false,
@@ -110555,7 +110555,7 @@
                 "equipment": [],
                 "quality": "",
                 "equipmentLock": false,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -110609,7 +110609,7 @@
                 "equipment": [],
                 "quality": "",
                 "equipmentLock": false,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -110627,7 +110627,7 @@
               "states": false,
               "attributes": {}
             },
-            "equipmentdata": [
+            "equipmentData": [
               {
                 "position": "头盔",
                 "state": true,
@@ -110640,7 +110640,7 @@
                 "equipment": [],
                 "quality": "",
                 "equipmentLock": false,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -110700,7 +110700,7 @@
                 "equipment": [],
                 "quality": "",
                 "equipmentLock": false,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -110760,7 +110760,7 @@
                 "equipment": [],
                 "quality": "",
                 "equipmentLock": false,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -110832,7 +110832,7 @@
                 "equipment": [],
                 "quality": "",
                 "equipmentLock": false,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -110892,7 +110892,7 @@
                 "equipment": [],
                 "quality": "",
                 "equipmentLock": false,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -110952,7 +110952,7 @@
                 "equipment": "月族护手",
                 "quality": "史诗",
                 "equipmentLock": true,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -111078,7 +111078,7 @@
                 "equipment": [],
                 "quality": "",
                 "equipmentLock": false,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -111137,7 +111137,7 @@
                 "equipment": [],
                 "quality": "",
                 "equipmentLock": false,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -111185,7 +111185,7 @@
                 }
               }
             ],
-            "equipmentdataExtraBonus": {
+            "equipmentDataExtraBonus": {
               "position": "装备额外加成",
               "state": false,
               "states": false,
@@ -111203,7 +111203,7 @@
                 "equipment": "星月冥士项链",
                 "quality": "传说",
                 "equipmentLock": true,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -111311,7 +111311,7 @@
                 "equipment": [],
                 "quality": "",
                 "equipmentLock": false,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -111361,7 +111361,7 @@
                 "equipment": "葬送指环",
                 "quality": "史诗",
                 "equipmentLock": true,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -111451,7 +111451,7 @@
                 "equipment": "葬送指环",
                 "quality": "史诗",
                 "equipmentLock": true,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -111547,7 +111547,7 @@
                 "equipment": [],
                 "quality": "",
                 "equipmentLock": false,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -111612,7 +111612,7 @@
                 "equipment": [],
                 "quality": "",
                 "equipmentLock": false,
-                "selecteEnchantment": [],
+                "selectEnchantment": [],
                 "constantAttributes": {
                   "constantAttributesKey": [],
                   "constantAttributesLabel": [],
@@ -111743,7 +111743,7 @@
               "manaAbsorption": 0,
               "HPRecovery": 0,
               "manaRegeneration": 0,
-              "ignorecounterAttack": 185,
+              "ignoreCounterAttack": 185,
               "ignoreMagicFeedback": 0,
               "ignoreBlock": 0,
               "ignoreInsight": 0,
@@ -111819,7 +111819,7 @@
     },
     {
       "name": "各种状态问题（xiaoyao转载，晨风补充）",
-      "article": "和等级有关的属性分别有生命，法力，防御，格挡，洞察，反击，反馈，魔命，致命\n生命，每一等级提供40血\n法力，每一等级提高10魔\n防御，计算公式为：(80 * 魔防 / 100) / (敌等级+敌传奇等级 + 12) / 100  ==>由worldH5助手作者:阿枫提出公式更改\n格挡，计算公式为：格挡/（敌等级+敌传奇等级）×7%\n洞察，计算公式为：洞察/（敌等级+敌传奇等级）×7%\n反击，计算公式为：反击/（敌等级+敌传奇等级）×7%\n反馈，计算公式为：反馈/（敌等级+敌传奇等级）× 7%\n魔命，计算公式为：魔法命中/（敌等级+敌传奇等级）×10%\n致命，计算公式为：致命/（敌等级+敌传奇等级）×15%\n以上数据均为取整的百分比数据（即30.13%为30%，46.98%为46%，小数点后位数直接舍去）\n所有数据（其实只有生命和法力）均享受自身%的提升\n\n申明、本次条目推翻之前版本部分言论 \n1) 暴击伤害是1.5倍并非2倍 \n2) 同时处于“虚弱”、“流血”状态，伤害减免变为原来的25%，此变化为数值扣除(由游戏玩家:刚刚的城堡发现并提出更正) \n3) 每点敏捷增加1破甲，每点力量增加0.1伤免，每点智力增加0.1状态抵抗 \n4) 闪避与命中：当人物命中超出目标闪避100点，则100％命中 \n5) \n魔法命中率计算公式： （魔法命中/目标等级）*10％ \n防御减伤效果计算公式：(80 * 魔防 / 100) / (目标等级 + 12) / 100  ==>由worldH5助手作者:阿枫提出公式更改\n致命点致命率计算公式：（致命点/目标等级）*15％ \n格挡格挡率计算公式： （格挡/目标等级）*7％ \n6) “力量增加15％”这种主属性提升效果，只计算人物基础数值、被动技能技能数值、称号以及**数值 \n7) “命中增加30％”这种二级属性提升效果，计算装备数值和宝石 \n8) 战斗中，有关百分比的技能基本都是“指数叠加”，包括魔力增幅，魔化武器，三寸真元劲，还有已经被和谐掉的战斗怒吼。参见【6楼】关于指数叠加的资料 \n9) 如上条，因为指数叠加的原因，像魔力增幅20级（30％，3回合）第十回合能达到300％的魔法攻击力，魔化武器20级（20％，4回合）第十回合能达到270％的物理攻击力。参见【6楼】关于指数叠加的资料 \n10) 实际上两个“女妖之嚎21级”并不能完全清除目标的状态抵抗 \n11) 两个甚至更多个解除魔法并不会增加封魔成功率，不如放两个破蛋怒吼实在- - \n12) 魔化小妞-卡莲娜，是穿刺攻击类型。尽管拿的是刀 \n13) 空手普通攻击类型为劈砍攻击 \n14) 攻击处于“定身”状态下的目标时，不会受到该目标的反击/魔法反馈 \n15) 处于“魔免”状态下，不会受到魔法反馈；处于“物免”情况下，不会受到反击 \n16) 名称相同的状态，在状态栏不会重复显示。 \n17) 侠义熊猫的拔筷相助，说明介绍持续2回合，其实只持续一个回合。亲测。 \n18) 守护熊猫拥有5599特权，就是说不管什么品质的守护熊猫，天赋技能都能到5 \n19) 少女的自动技能-招雷，单人竞技情况下，根据所处的左右位置，会出现打人/打宠不统一现象。 \n20) 苍鹰/鹰王的背后偷袭是单体祝福技能，抵抗无效，魔免无效，物免无效，幻影无效，甚至无敌状态也无效，是一个释放成功就无法阻止的伤害，也是世界OL里唯一一种无法阻止的伤害\n\nDebuff\n1） 中毒，自动回蓝、基础法力吸收无效；受到法力恢复（吃蓝，技能加蓝）效果减半\n2） 火烧，自动回血、基础生命吸收无效；受到生命恢复（吃红，技能加血）效果减半\n3） 封魔，无法使用诅咒、魔法、祝福、物理技能\n4） 禁言，无法使用诅咒、魔法、祝福技能\n5） 禁技，无法使用物理技能\n6） 定身\n1） 人物无法施放逃跑之外的任何指令，npc不会逃跑\n2） 自动技能释放无效\n3） 反击/魔法反馈不会被触发 \n7） 混乱（非官方）\n1） 自动技能一定几率释放失败\n2） 主动技能有一定几率变为普通攻击，随机目标\n3） 释放成功的技能目标变为随机，敌我判断，遵守技能目标限制\n8） 虚弱\n1） 所受伤害增加20％（固定扣血不加）\n2） 每点伤害减免效果变为0.05（正常为0.1），数值不变\n9） 流血\n1） 自动回血无效\n2） 所受伤害增加10％（固定扣血不加）\n3） 每点伤害减免效果变为0.05（正常为0.1），数值不变\n\nBuff\n10）魔免，受到的魔攻、诅咒、魔法反馈无效\n11）物免，受到的物攻、反击无效\n12）幻影，受到的群体物攻、祝福无效\n13）全减益免疫，无法添加debuff\n14）无敌\n1）受到的魔法、物理、诅咒攻击无效\n2）无法添加任何其他状态（除祝福类清增技能附带的状态）\n3）可以添加无属性的祝福属性\n4）可以死亡\n其他未记录的均为无效果状态，只有占状态栏的作用\n\n\n首先，人物有6个状态栏，3个buff栏和3个debuff栏，当第4个状态的来临，会从下向上挤掉一个状态。 \n这里用虚弱做例子：\n1）“无状态属性”介绍 \n这条属性不占状态栏，在持续回合内可以无限叠加。 \n如下图，魔化武器20级，3个“无状态属性”\n魔化武器20在4回合内可以叠加4次。即：20次攻击次数，106％穿刺和劈砍攻击次提升。 \n2）“有状态属性”介绍 \n这条属性需要占一个buff栏或者debuff栏，因为不管哪种状态栏都只有3个，所以全部状态只能叠加3次。 \n如下图花莲妙法21级，两个“有属性状态”\n使用两次“花莲妙法”后，有4个buff，人物只能有3个buff，取后3个buff，即“全减益免疫，持续回魔，全减益免疫”对应效果为生命+2200*2，法力+550。\n\n\n3）挤状态的实验 \n【实验1】 \n测试1：对一个无状态目标使用华莲，那么目标的状态为：\nBuff1：持续回蓝（法力加550）\nBuff2：全减益免疫（生命加2200）\nBuff3：空\n测试2：对该目标再次使用华莲，那么第一条状态被挤掉（从下往上塞状态）：\nBuff1：全减益免疫（生命加2200）\nBuff2：持续回蓝（法力加550）\nBuff3：全减益免疫（生命加2200）\n提醒：系统设定，重复的状态虽然不会显示，但是还是占着这个状态栏，并且效果有效。\n\n测试3：对该目标使用“反魔力场”，那么状态继续挤掉：\nBuff1：持续回蓝（法力加550）\nBuff2：全减益免疫（生命加2200）\nBuff3：魔免（魔法免疫） \n由此可见，花莲妙法清反魔的谣言是假的。\n\n1）神马是“线性叠加”、“指数叠加”？ \n“线性叠加”就是指仅在基础数据上进行增幅。 \n“指数叠加”就是在目前数值上进行叠加，听不懂？“利滚利”就是指数叠加。 \n\n2）关于战斗怒吼被和谐的真正原因 \n作者：蜡笔 \n自从有人爆出用了战斗怒吼打黑龙33W+之后，就陆续有人使用战斗怒吼打出了66W，132W伤害种种。后来老雷更新了，增强21级战斗怒吼，增加属性增加状态。此后，一代神技落寞了。\n其实从老雷对天神叠加的态度不难看出，没状态的你随便叠，我是允许的，因为回蓝他设置了上限。有状态的叠加也不担心，一次最多3个状态，持续100回合但你也只能拥有3个状态，增幅还是有上限。然后增幅0.4以下（即40%加成）的增幅技能也随便叠加，叠多了也是有个瓶颈的。\n可是，增幅一旦超过0.5以上（即50%加成以上），加成可以达到无限大（至少30回合内是一直增加的）。\n对于持续3回合的增幅技能来说，如果增幅0.1，基本最后增加到137%；如果增幅0.3，最后约增加到327%；如果增幅0.4，最后约增加到680%；一旦增幅达到0.5，30回合后会增加到3000%……何等恐怖\n在战斗怒吼没有和谐的时候，平均一回合增幅0.92，持续3回合，大约7回合达到480倍伤害，夸张了点吧……如果继续叠加，可以在最后一回合直接秒杀所有boss，26回合会有15W倍伤害……就算劈防爆表，伤免爆表，20000劈砍也能打出2亿伤害。学过计算机的应该知道有时候数据过大会产生什么情况吧，我也不懂咧 \n相比原来刚出贤者的祝福，那个真是小巫见大巫了。现在也都是和谐了。和谐世界，和谐社会。\n至于其他单体可叠加技能估计是不会被和谐了，毕竟50%的无状态增幅技能还没有吧 \n\n3）详细解读世界ol中的叠加公式 \n作者：蜡笔 \n这次拿出3个技能作分析\n①修真的专属：天神附体（21级）\n效果：自身 祝福 法力护盾+65% 伤害减免+400 每回合自动恢复法力+65% 持续3回合\n②法师的自动：魔法增幅（20级）\n效果：自身 祝福 魔法攻击力+30%，免疫禁言 每回合自动恢复法力+240 持续3回合\n③侠客的自动：三寸真元劲（21级）\n效果：自身 祝福 穿刺攻击力+2000 破甲+3200 穿刺攻击力+21%，免疫封技 持续3回合 \n首先是天神附体，这个技能最好测试，因为稳定，不管打多少次，基础值都是固定的，后面变化也是固定的。\n天神附体增加每回合的自动回蓝量，当前回合使用，下一回合才生效，然后持续三回合（实际本回合已经算持续一回合了） \n初始回蓝：1214\n第一回合：\n回合开始：回蓝1214\n自动阶段：天神增加基础回蓝65%，即增加量为a=1214*65%=789，持续3回合\n*此时回蓝量=1214+789（持续3回合）=2003\n第二回合\n回合开始：回蓝2003\n自动阶段：天神增加基础回蓝65%，即增加量为b=2003*65%=1301，持续3回合\n*此时回蓝量=1214+789（持续2回合）+1301（持续3回合）=3304\n第三回合\n回合开始：回蓝3304\n自动阶段：天神增加基础回蓝65%，即增加量为b=3304*65%=2147，持续3回合\n*此时回蓝量=1214+789（持续1回合）+1301（持续2回合）+2147（持续3回合）=5451 \n重点来了\n第四回合\n此时第一回合增加的789回蓝已经结束持续\n此时回蓝量变成了1214+1301（持续1回合）+2147（持续2回合）=4661\n回合开始：回蓝4661\n自动阶段：天神增加基础回蓝65%，即增加量为4661*65%=3029，持续3回合\n*此时回蓝量=1214+1301（持续1回合）+2147（持续2回合）+3029（持续3回合）=7690 \n综上，天神回蓝量的增加分成2块，自身回蓝，增加回蓝\n每回合的增加回蓝都是回合开始阶段的回蓝量乘于增加率，持续3回合，在3回合后消失 \n下面是魔法增幅 \n初始魔攻：20098\n第一回合：\n回合开始：魔攻20098\n自动阶段：魔增增加基础魔攻30%，即增加量为20098*30%=6029，持续3回合\n*此时魔攻=20098+6029（持续3回合）=26127\n第二回合\n回合开始：魔攻26127\n自动阶段：魔增增加基础魔攻30%，即增加量为26127*30%=7838，持续3回合\n*此时魔攻=20098+6029（持续2回合）+7838（持续3回合）=33965\n第三回合\n回合开始：魔攻33965\n自动阶段：魔增增加基础魔攻30%，即增加量为33965*30%=10189，持续3回合\n*此时魔攻=20098+6029（持续1回合）+7838（持续2回合）+10189（持续3回合）=44154\n第四回合\n此时第一回合增加的6029魔攻已经结束持续\n此时魔攻变成了20098+7838（持续1回合）+10189（持续2回合）=38125\n回合开始：魔攻38125\n自动阶段：魔增增加基础魔攻30%，即增加量为38125*30%=11437，持续3回合\n*此时魔攻=20098+7838（持续1回合）+10189（持续2回合）+11437（持续3回合）=49562\n……\n最后伤害稳定在6W5 \n三寸略。 \n最后给出一个结论，魔化武器在劈穿攻击加成方面远胜伏虎三寸，而且魔化还有攻次加成。三寸则强在有破甲。 \nPs、3寸的被吞了，计算公式是（a+2000）*1.21。\n\n技能所需黄金：\n11级8、12级10、13级15、14级23、15级30（金叶）、16级35、17级35、18级38（可以用书学）、19级45、20级60、21级60、22级100（黄金），跨职业2倍。 金叶86金叶，373金。（魔宠强化20级100金）\n1到10级本职：27500；跨职：55000  (贤者、武圣、枪王，本职55000；跨职110000）   技能点： 本职1265，跨值2530\n\n本职学满22级需消耗:技能点1265，黄金373，金叶98，铜27500\n跨职学满22级需消耗:技能点2530，黄金746，金叶196，铜55000\n锤师、岚舞新职业技能学习消耗(跨职)：黄金860，金叶300，本职为跨职一半(数据由：官服-无尽-天子提供)\n\n宠物：(跨值翻倍)\n1到10级：500、1000、1500     共计27500铜\n11到15级：8、10、12、14、16     共计60金叶\n16到22级：18、20、22、24、26、35、40金     共计145金叶，40金\n23到32级：45、50、55、60、65、70、75、80、85、90     共计675金\n\n宠物封印技能1级到9级:140到220技能点\n\n进游戏刚创建完号的时候，每个角色都有两个本职技能和10技能点，共20点，之后每升一级，就会获得上一等级×10的技能点，比如祢现在等级为50级，祢升到51级就会获得500点技能点，根据这个下面可以总结出一个公式，假设祢现在等级为N，总共技能点为S，那么S＝5×N×（N-1）+20 ，技能所需：N×5＝所需技能点，跨职翻倍。这其实就是一个S以0为首项，10为公差的等差数列的前N项和，再加上20点的初始技能点。\n根据上面这公式，现在假设你想知道64级时候的技能点数，那套进公式就可以算出为20180点技能，这就方便你在点技能时候算好技能点，避免超过不够点。\n（同等级，宠物比人物少10点）\n\n还有一个本职技能点的算法就是：假设技能等级学到M级，则本职技能所需技能点＝2.5×M×（M+1），跨职双倍 ，所需＝5×M×（M+1）。\n以上就是技能点算法的内容了，相信数学好的玩家都知道这些了，但是肯定还有大部分玩家没有注意到的，所以这部分玩家就可以好好的借鉴参考下，希望能帮到大家。。。\n\n★1力量增加3生命，0.1伤免，5劈砍，5穿刺，3破甲。\n★1体质增加6.5生命，0.2伤免，8劈防，8穿防。\n★1敏捷增加3出手，0.2命中，3劈砍，5穿刺，1破甲，0.4躲闪，0.2格挡。\n★1智力增加7.5法力，0.1抵抗，0.1洞察，2法盾，3魔攻，2魔穿，2魔防。\n★1感知增加3.5法力，0.3抵抗，0.2洞察，3法盾，2魔攻，1魔穿，0.4躲闪，1，5出手，4魔防\n\n\na=基础武伤，b=实际攻次，c=武伤加成%，x=额外武伤%\n伤害=ac*b=abc\n增加1攻次：ac*（b+1）=abc+ac      \n增加x武伤：a（c+x）*b=abc+abx     \n比较式，即c与bx的比较，\n设基础武伤2000，一般暴力1.4万武伤，即c=700%\n魔化攻次30，设人物本身20攻次，即b=50     \n即x=7/50=14%\n即当x大于14%时，效果比提升1攻次效果好\n\n\n暴力的实际伤害计算方式是\n伤害=(武伤*攻次+当前回合劈砍/穿刺)*(100%+0.5倍致命率)*(敌人负面状态比如虚弱1.2倍，流血1.1倍，两个都有是1.3倍)*(1-防御值减伤率)*(1-伤害减免率)*(实际命中率)*(1-敌人格挡率)\n首先还要强调一个等级压制的问题。\n500致命点在86级显然是不满致命的，但是对于大多数日常副本来说由于怪物等级都在70以下，因此还是相当于满致命的。\n其次，一个暴力想打出最高伤害，命中无疑非常重要，现在的主流大刀命中都达到了2500+，配合战斗的叠加，可以达到可怕的数值，从而100%命中。\n\n\n设命中率为42%。  \n攻次1:42％几率命中，58％命中不了\n攻次2:58％×42％=24.4％  24.4+42％=66.4  100-66.4=32.6％(不命中的概率)\n攻次3:32.6％×42％=14％  用命中率42％+24.4％+14％=80.4％  19.6%不命中\n攻次4：同理\n......\nvip\nVip等级\t黄金\t合计\n1\t500\t500\n2\t2000\t2500\n3\t4000\t6500\n4\t6000\t12500\n5\t8000\t20500\n6\t15000\t35500\n7\t20000\t55500\n8\t30000\t85500\n9\t45000\t130500\n升级到Vip后，时间会重新刷新成30天。\n注意:Vip过期4天之后，每天扣1000经验\n\n\n金叶→60天统计：\n1.火龙清明植树                        70×60=4200\n2.世界勋章/骑士勋章/初级勋章/高级勋章 500×6+34×60+100×3+150×4=5940\n3.  10个职业金叶任务                  10×5×60=3000\n4.答题，vip答题                       10×60+20×60=1800\n5.劫镖（50无双）                      15×5×60=4500\n6.刑天，小组                          30×60=1800\n7.挑战任务每天按10小时，40次算      40×3×60=7200\n合计：4200+5940+3000+1800+4500+1800+7200=28440\n\n高难勋章兑换的史诗蛋\n勇猛蛋：熊猫、哈士奇、战鹰、熊猫战士、骷髅战士、黑猫战士、宠物犬、俊介、阿宝、战女仆、战斗猫、熔岩元素、火焰元素、熊猫狂战士、天空战神\n迅捷蛋：狩猎猫、侠义熊猫、寒冰元素、猎鹰、仙灵、天空王者、猫女、丛林战鹰\n睿知蛋：大地元素、元素领主、守护女仆、萌系女仆、魔法仙灵、冰雪仙灵、朝比奈实玖瑠、骷髅王\n\n以上60%是抄袭的，难得还有人看到这里，最后：副本、PK我觉得就两点：数据的对抗和对几率的理解，第二点很难控，所以把握好第一点。",
+      "article": "和等级有关的属性分别有生命，法力，防御，格挡，洞察，反击，反馈，魔命，致命\n生命，每一等级提供40血\n法力，每一等级提高10魔\n防御，计算公式为：(80 * 魔防 / 100) / (敌等级+敌传奇等级 + 12) / 100  ==>由worldH5助手作者:阿枫提出公式更改\n格挡，计算公式为：格挡/（敌等级+敌传奇等级）×7%\n洞察，计算公式为：洞察/（敌等级+敌传奇等级）×7%\n反击，计算公式为：反击/（敌等级+敌传奇等级）×7%\n反馈，计算公式为：反馈/（敌等级+敌传奇等级）× 7%\n魔命，计算公式为：魔法命中/（敌等级+敌传奇等级）×10%\n致命，计算公式为：致命/（敌等级+敌传奇等级）×15%\n以上数据均为取整的百分比数据（即30.13%为30%，46.98%为46%，小数点后位数直接舍去）\n所有数据（其实只有生命和法力）均享受自身%的提升\n\n申明、本次条目推翻之前版本部分言论 \n1) 暴击伤害是1.5倍并非2倍 \n2) 同时处于“虚弱”、“流血”状态，伤害减免变为原来的25%，此变化为数值扣除(由游戏玩家:刚刚的城堡发现并提出更正) \n3) 每点敏捷增加1破甲，每点力量增加0.1伤免，每点智力增加0.1状态抵抗 \n4) 闪避与命中：当人物命中超出目标闪避100点，则100％命中 \n5) \n魔法命中率计算公式： （魔法命中/目标等级）*10％ \n防御减伤效果计算公式：(80 * 魔防 / 100) / (目标等级 + 12) / 100  ==>由worldH5助手作者:阿枫提出公式更改\n致命点致命率计算公式：（致命点/目标等级）*15％ \n格挡格挡率计算公式： （格挡/目标等级）*7％ \n6) “力量增加15％”这种主属性提升效果，只计算人物基础数值、被动技能技能数值、称号以及**数值 \n7) “命中增加30％”这种二级属性提升效果，计算装备数值和宝石 \n8) 战斗中，有关百分比的技能基本都是“指数叠加”，包括魔力增幅，魔化武器，三寸真元劲，还有已经被和谐掉的战斗怒吼。参见【6楼】关于指数叠加的资料 \n9) 如上条，因为指数叠加的原因，像魔力增幅20级（30％，3回合）第十回合能达到300％的魔法攻击力，魔化武器20级（20％，4回合）第十回合能达到270％的物理攻击力。参见【6楼】关于指数叠加的资料 \n10) 实际上两个“女妖之嚎21级”并不能完全清除目标的状态抵抗 \n11) 两个甚至更多个解除魔法并不会增加封魔成功率，不如放两个破蛋怒吼实在- - \n12) 魔化小妞-卡莲娜，是穿刺攻击类型。尽管拿的是刀 \n13) 空手普通攻击类型为劈砍攻击 \n14) 攻击处于“定身”状态下的目标时，不会受到该目标的反击/魔法反馈 \n15) 处于“魔免”状态下，不会受到魔法反馈；处于“物免”情况下，不会受到反击 \n16) 名称相同的状态，在状态栏不会重复显示。 \n17) 侠义熊猫的拔筷相助，说明介绍持续2回合，其实只持续一个回合。亲测。 \n18) 守护熊猫拥有5599特权，就是说不管什么品质的守护熊猫，天赋技能都能到5 \n19) 少女的自动技能-招雷，单人竞技情况下，根据所处的左右位置，会出现打人/打宠不统一现象。 \n20) 苍鹰/鹰王的背后偷袭是单体祝福技能，抵抗无效，魔免无效，物免无效，幻影无效，甚至无敌状态也无效，是一个释放成功就无法阻止的伤害，也是世界OL里唯一一种无法阻止的伤害\n\nDebuff\n1） 中毒，自动回蓝、基础法力吸收无效；受到法力恢复（吃蓝，技能加蓝）效果减半\n2） 火烧，自动回血、基础生命吸收无效；受到生命恢复（吃红，技能加血）效果减半\n3） 封魔，无法使用诅咒、魔法、祝福、物理技能\n4） 禁言，无法使用诅咒、魔法、祝福技能\n5） 禁技，无法使用物理技能\n6） 定身\n1） 人物无法施放逃跑之外的任何指令，npc不会逃跑\n2） 自动技能释放无效\n3） 反击/魔法反馈不会被触发 \n7） 混乱（非官方）\n1） 自动技能一定几率释放失败\n2） 主动技能有一定几率变为普通攻击，随机目标\n3） 释放成功的技能目标变为随机，敌我判断，遵守技能目标限制\n8） 虚弱\n1） 所受伤害增加20％（固定扣血不加）\n2） 每点伤害减免效果变为0.05（正常为0.1），数值不变\n9） 流血\n1） 自动回血无效\n2） 所受伤害增加10％（固定扣血不加）\n3） 每点伤害减免效果变为0.05（正常为0.1），数值不变\n\nBuff\n10）魔免，受到的魔攻、诅咒、魔法反馈无效\n11）物免，受到的物攻、反击无效\n12）幻影，受到的群体物攻、祝福无效\n13）全减益免疫，无法添加debuff\n14）无敌\n1）受到的魔法、物理、诅咒攻击无效\n2）无法添加任何其他状态（除祝福类清增技能附带的状态）\n3）可以添加无属性的祝福属性\n4）可以死亡\n其他未记录的均为无效果状态，只有占状态栏的作用\n\n\n首先，人物有6个状态栏，3个buff栏和3个debuff栏，当第4个状态的来临，会从下向上挤掉一个状态。 \n这里用虚弱做例子：\n1）“无状态属性”介绍 \n这条属性不占状态栏，在持续回合内可以无限叠加。 \n如下图，魔化武器20级，3个“无状态属性”\n魔化武器20在4回合内可以叠加4次。即：20次攻击次数，106％穿刺和劈砍攻击次提升。 \n2）“有状态属性”介绍 \n这条属性需要占一个buff栏或者debuff栏，因为不管哪种状态栏都只有3个，所以全部状态只能叠加3次。 \n如下图花莲妙法21级，两个“有属性状态”\n使用两次“花莲妙法”后，有4个buff，人物只能有3个buff，取后3个buff，即“全减益免疫，持续回魔，全减益免疫”对应效果为生命+2200*2，法力+550。\n\n\n3）挤状态的实验 \n【实验1】 \n测试1：对一个无状态目标使用华莲，那么目标的状态为：\nBuff1：持续回蓝（法力加550）\nBuff2：全减益免疫（生命加2200）\nBuff3：空\n测试2：对该目标再次使用华莲，那么第一条状态被挤掉（从下往上塞状态）：\nBuff1：全减益免疫（生命加2200）\nBuff2：持续回蓝（法力加550）\nBuff3：全减益免疫（生命加2200）\n提醒：系统设定，重复的状态虽然不会显示，但是还是占着这个状态栏，并且效果有效。\n\n测试3：对该目标使用“反魔力场”，那么状态继续挤掉：\nBuff1：持续回蓝（法力加550）\nBuff2：全减益免疫（生命加2200）\nBuff3：魔免（魔法免疫） \n由此可见，花莲妙法清反魔的谣言是假的。\n\n1）神马是“线性叠加”、“指数叠加”？ \n“线性叠加”就是指仅在基础数据上进行增幅。 \n“指数叠加”就是在目前数值上进行叠加，听不懂？“利滚利”就是指数叠加。 \n\n2）关于战斗怒吼被和谐的真正原因 \n作者：蜡笔 \n自从有人爆出用了战斗怒吼打黑龙33W+之后，就陆续有人使用战斗怒吼打出了66W，132W伤害种种。后来老雷更新了，增强21级战斗怒吼，增加属性增加状态。此后，一代神技落寞了。\n其实从老雷对天神叠加的态度不难看出，没状态的你随便叠，我是允许的，因为回蓝他设置了上限。有状态的叠加也不担心，一次最多3个状态，持续100回合但你也只能拥有3个状态，增幅还是有上限。然后增幅0.4以下（即40%加成）的增幅技能也随便叠加，叠多了也是有个瓶颈的。\n可是，增幅一旦超过0.5以上（即50%加成以上），加成可以达到无限大（至少30回合内是一直增加的）。\n对于持续3回合的增幅技能来说，如果增幅0.1，基本最后增加到137%；如果增幅0.3，最后约增加到327%；如果增幅0.4，最后约增加到680%；一旦增幅达到0.5，30回合后会增加到3000%……何等恐怖\n在战斗怒吼没有和谐的时候，平均一回合增幅0.92，持续3回合，大约7回合达到480倍伤害，夸张了点吧……如果继续叠加，可以在最后一回合直接秒杀所有boss，26回合会有15W倍伤害……就算劈防爆表，伤免爆表，20000劈砍也能打出2亿伤害。学过计算机的应该知道有时候数据过大会产生什么情况吧，我也不懂咧 \n相比原来刚出贤者的祝福，那个真是小巫见大巫了。现在也都是和谐了。和谐世界，和谐社会。\n至于其他单体可叠加技能估计是不会被和谐了，毕竟50%的无状态增幅技能还没有吧 \n\n3）详细解读世界ol中的叠加公式 \n作者：蜡笔 \n这次拿出3个技能作分析\n①修真的专属：天神附体（21级）\n效果：自身 祝福 法力护盾+65% 伤害减免+400 每回合自动恢复法力+65% 持续3回合\n②法师的自动：魔法增幅（20级）\n效果：自身 祝福 魔法攻击力+30%，免疫禁言 每回合自动恢复法力+240 持续3回合\n③侠客的自动：三寸真元劲（21级）\n效果：自身 祝福 穿刺攻击力+2000 破甲+3200 穿刺攻击力+21%，免疫封技 持续3回合 \n首先是天神附体，这个技能最好测试，因为稳定，不管打多少次，基础值都是固定的，后面变化也是固定的。\n天神附体增加每回合的自动回蓝量，当前回合使用，下一回合才生效，然后持续三回合（实际本回合已经算持续一回合了） \n初始回蓝：1214\n第一回合：\n回合开始：回蓝1214\n自动阶段：天神增加基础回蓝65%，即增加量为a=1214*65%=789，持续3回合\n*此时回蓝量=1214+789（持续3回合）=2003\n第二回合\n回合开始：回蓝2003\n自动阶段：天神增加基础回蓝65%，即增加量为b=2003*65%=1301，持续3回合\n*此时回蓝量=1214+789（持续2回合）+1301（持续3回合）=3304\n第三回合\n回合开始：回蓝3304\n自动阶段：天神增加基础回蓝65%，即增加量为b=3304*65%=2147，持续3回合\n*此时回蓝量=1214+789（持续1回合）+1301（持续2回合）+2147（持续3回合）=5451 \n重点来了\n第四回合\n此时第一回合增加的789回蓝已经结束持续\n此时回蓝量变成了1214+1301（持续1回合）+2147（持续2回合）=4661\n回合开始：回蓝4661\n自动阶段：天神增加基础回蓝65%，即增加量为4661*65%=3029，持续3回合\n*此时回蓝量=1214+1301（持续1回合）+2147（持续2回合）+3029（持续3回合）=7690 \n综上，天神回蓝量的增加分成2块，自身回蓝，增加回蓝\n每回合的增加回蓝都是回合开始阶段的回蓝量乘于增加率，持续3回合，在3回合后消失 \n下面是魔法增幅 \n初始魔攻：20098\n第一回合：\n回合开始：魔攻20098\n自动阶段：魔增增加基础魔攻30%，即增加量为20098*30%=6029，持续3回合\n*此时魔攻=20098+6029（持续3回合）=26127\n第二回合\n回合开始：魔攻26127\n自动阶段：魔增增加基础魔攻30%，即增加量为26127*30%=7838，持续3回合\n*此时魔攻=20098+6029（持续2回合）+7838（持续3回合）=33965\n第三回合\n回合开始：魔攻33965\n自动阶段：魔增增加基础魔攻30%，即增加量为33965*30%=10189，持续3回合\n*此时魔攻=20098+6029（持续1回合）+7838（持续2回合）+10189（持续3回合）=44154\n第四回合\n此时第一回合增加的6029魔攻已经结束持续\n此时魔攻变成了20098+7838（持续1回合）+10189（持续2回合）=38125\n回合开始：魔攻38125\n自动阶段：魔增增加基础魔攻30%，即增加量为38125*30%=11437，持续3回合\n*此时魔攻=20098+7838（持续1回合）+10189（持续2回合）+11437（持续3回合）=49562\n……\n最后伤害稳定在6W5 \n三寸略。 \n最后给出一个结论，魔化武器在劈穿攻击加成方面远胜伏虎三寸，而且魔化还有攻次加成。三寸则强在有破甲。 \nPs、3寸的被吞了，计算公式是（a+2000）*1.21。\n\n技能所需黄金：\n11级8、12级10、13级15、14级23、15级30（金叶）、16级35、17级35、18级38（可以用书学）、19级45、20级60、21级60、22级100（黄金），跨职业2倍。 金叶86金叶，373金。（魔宠强化20级100金）\n1到10级本职：27500；跨职：55000  (贤者、武圣、枪王，本职55000；跨职110000）   技能点： 本职1265，跨值2530\n\n本职学满22级需消耗:技能点1265，黄金373，金叶98，铜27500\n跨职学满22级需消耗:技能点2530，黄金746，金叶196，铜55000\n锤师、岚舞新职业技能学习消耗(跨职)：黄金860，金叶300，本职为跨职一半(数据由：官服-无尽-天子提供)\n\n宠物：(跨值翻倍)\n1到10级：500、1000、1500...依次累加500铜     共计27500铜\n11到15级：8、10、12、14、16     共计60金叶\n16到22级：18、20、22、24、26、35、40金     共计145金叶，40金\n23到32级：45、50、55、60、65、70、75、80、85、90     共计675金\n\n宠物封印技能1级到9级:140到220技能点\n\n进游戏刚创建完号的时候，每个角色都有两个本职技能和10技能点，共20点，之后每升一级，就会获得上一等级×10的技能点，比如祢现在等级为50级，祢升到51级就会获得500点技能点，根据这个下面可以总结出一个公式，假设祢现在等级为N，总共技能点为S，那么S＝5×N×（N-1）+20 ，技能所需：N×5＝所需技能点，跨职翻倍。这其实就是一个S以0为首项，10为公差的等差数列的前N项和，再加上20点的初始技能点。\n根据上面这公式，现在假设你想知道64级时候的技能点数，那套进公式就可以算出为20180点技能，这就方便你在点技能时候算好技能点，避免超过不够点。\n（同等级，宠物比人物少10点）\n\n还有一个本职技能点的算法就是：假设技能等级学到M级，则本职技能所需技能点＝2.5×M×（M+1），跨职双倍 ，所需＝5×M×（M+1）。\n以上就是技能点算法的内容了，相信数学好的玩家都知道这些了，但是肯定还有大部分玩家没有注意到的，所以这部分玩家就可以好好的借鉴参考下，希望能帮到大家。。。\n\n★1力量增加3生命，0.1伤免，5劈砍，5穿刺，3破甲。\n★1体质增加6.5生命，0.2伤免，8劈防，8穿防。\n★1敏捷增加3出手，0.2命中，3劈砍，5穿刺，1破甲，0.4躲闪，0.2格挡。\n★1智力增加7.5法力，0.1抵抗，0.1洞察，2法盾，3魔攻，2魔穿，2魔防。\n★1感知增加3.5法力，0.3抵抗，0.2洞察，3法盾，2魔攻，1魔穿，0.4躲闪，1，5出手，4魔防\n\n\na=基础武伤，b=实际攻次，c=武伤加成%，x=额外武伤%\n伤害=ac*b=abc\n增加1攻次：ac*（b+1）=abc+ac      \n增加x武伤：a（c+x）*b=abc+abx     \n比较式，即c与bx的比较，\n设基础武伤2000，一般暴力1.4万武伤，即c=700%\n魔化攻次30，设人物本身20攻次，即b=50     \n即x=7/50=14%\n即当x大于14%时，效果比提升1攻次效果好\n\n\n暴力的实际伤害计算方式是\n伤害=(武伤*攻次+当前回合劈砍/穿刺)*(100%+0.5倍致命率)*(敌人负面状态比如虚弱1.2倍，流血1.1倍，两个都有是1.3倍)*(1-防御值减伤率)*(1-伤害减免率)*(实际命中率)*(1-敌人格挡率)\n首先还要强调一个等级压制的问题。\n500致命点在86级显然是不满致命的，但是对于大多数日常副本来说由于怪物等级都在70以下，因此还是相当于满致命的。\n其次，一个暴力想打出最高伤害，命中无疑非常重要，现在的主流大刀命中都达到了2500+，配合战斗的叠加，可以达到可怕的数值，从而100%命中。\n\n\n设命中率为42%。  \n攻次1:42％几率命中，58％命中不了\n攻次2:58％×42％=24.4％  24.4+42％=66.4  100-66.4=32.6％(不命中的概率)\n攻次3:32.6％×42％=14％  用命中率42％+24.4％+14％=80.4％  19.6%不命中\n攻次4：同理\n......\nvip\nVip等级\t黄金\t合计\n1\t500\t500\n2\t2000\t2500\n3\t4000\t6500\n4\t6000\t12500\n5\t8000\t20500\n6\t15000\t35500\n7\t20000\t55500\n8\t30000\t85500\n9\t45000\t130500\n升级到Vip后，时间会重新刷新成30天。\n注意:Vip过期4天之后，每天扣1000经验\n\n\n金叶→60天统计：\n1.火龙清明植树                        70×60=4200\n2.世界勋章/骑士勋章/初级勋章/高级勋章 500×6+34×60+100×3+150×4=5940\n3.  10个职业金叶任务                  10×5×60=3000\n4.答题，vip答题                       10×60+20×60=1800\n5.劫镖（50无双）                      15×5×60=4500\n6.刑天，小组                          30×60=1800\n7.挑战任务每天按10小时，40次算      40×3×60=7200\n合计：4200+5940+3000+1800+4500+1800+7200=28440\n\n高难勋章兑换的史诗蛋\n勇猛蛋：熊猫、哈士奇、战鹰、熊猫战士、骷髅战士、黑猫战士、宠物犬、俊介、阿宝、战女仆、战斗猫、熔岩元素、火焰元素、熊猫狂战士、天空战神\n迅捷蛋：狩猎猫、侠义熊猫、寒冰元素、猎鹰、仙灵、天空王者、猫女、丛林战鹰\n睿知蛋：大地元素、元素领主、守护女仆、萌系女仆、魔法仙灵、冰雪仙灵、朝比奈实玖瑠、骷髅王\n\n以上60%是抄袭的，难得还有人看到这里，最后：副本、PK我觉得就两点：数据的对抗和对几率的理解，第二点很难控，所以把握好第一点。",
       "strategyAuthor": "精选文章转载",
       "date": "2022-10-10T07:31:10.129Z",
       "id": "4"
@@ -112067,7 +112067,7 @@
     },
     {
       "name": "关于攻次各职业详解",
-      "article": "想要完全搞明白攻次有什么用，就得先明白攻次的意义。\n\n有的朋友可能觉得攻次没啥好讲的，那不就是攻击次数嘛，攻次越高伤害越高这是大家都知道的常识\n\n那我们说一个大部分玩家可能都不太清楚的；我想问问各位：\na.攻次有上限吗，如果有，那上限是多少\nb.攻次的伤害是怎么转化的(伤害计算公式)\nc.多个攻次与单次攻击的关系，与伤害上限的关系\nd.对于辅助而言，攻次又该处于何种地位?\n\n如果以上问题您不能解答，那么这篇文章一定会对您有所帮助；如果以上问题您都能知道答案，那么我们仍希望在其他地方能够对您有所帮助。\n\n1、攻次有上限吗?\n\n答案是肯定的。攻次是有上限的，根据经验总结以及玩家间的流传，攻次的上限基本上可以确定为：99\n\n当然，如果只给朋友们说攻次上限而不说计算方式，难免有的朋友会为了去寻求攻次的计算方法而浪费时间。那这里我们就废话不多说，把问题一次给各位朋友讲明白。\n\n攻次的计算方法为：属性面板攻次+自动技能所加攻次+主动技能附带攻次\n\n这里要注意一下：自动技能是+攻次，主动技能是附加攻次，这两个加法是不相同的==>技能所+攻次是有持续回合的，而技能附加攻次是只有使用这个技能才会+的，所以并没有持续回合\n\n就比如魔化武器技能属性：+6攻次，持续5回合，总共可以给我们+30个攻次\n\n但是虽然主动技能大部分也都有持续回合，但是技能属性是附加攻次，所以并不具备持续叠加的要求\n(当然并不是说主动技能就没有能叠加攻次的技能，只是在常规打副本的时候并不会使用该类技能，所以不考虑。如果一定要深究，那可以参考一下文章：关于刷伤害  那个文章对这个技能 【 完全狂暴 】 有比较详细的介绍)\n\n2、攻次的伤害是怎么转化的\n现在我们已经知道攻次的计算方法了\n那么接下来由我为各位介绍攻次的作用：\n伤害=【(最高武商+最低武商)/2*攻次+百万攻击力】*1.5*(1+0.2+0.1)\n注：1.5为致命伤害加成、0.2为衰弱状态加成、0.1为流血状态加成，1是伤害本身\n\n上诉公式是精简后的，新手玩家如不能理解可以试着使用如下公式：\n伤害={(百万/总攻次+武伤)*实际攻次}*(150%的致命伤害)*(敌人负面状态比如衰弱1.2倍，流血1.1倍，两个都有是1.3倍)*(1-防御值减伤率)*(1-伤害减免率)\nPS:实际攻次是指在闪避格挡所衰减过后的攻次。\n比如总攻次60，百分百命中，再格挡7次的情况下，实际攻次为53\n因为实战中被格挡基本是常态，而且被格挡7次的概率是非常高的所以这里就默认减去7攻次\n此更改意见由微信小程序玩家-瑾瑜提出；同时他也是微信公众号：世界OL百宝箱作者，感兴趣的朋友可以自行了解\n\n单攻次伤害上限为：418758【由玩家封影、游马提供】\n根据伤害计算公式可得：在武商既定的情况下，攻次越高伤害越高(攻次未到上限的情况下)\n然后根据上面的推论，攻次好像是和伤害直接挂钩的，好像和辅助没啥关系?这个问题我们留到后面一起讲\n\n3、多个攻次与单次攻击的关系，与伤害上限的关系\n\n有没有朋友和我一样有过这个疑惑：明明是多个攻次，打敌人的时候却只有一次伤害呢，最明显的是对面有两个盾的情况下，我多个攻次攻击对方，对方只会损失一个盾\n\n其实这个问题就是没有弄明白多个攻次与单次攻击的关系，即：攻次再多我们在攻击的时候也只会攻击一次，所有的攻次都会包含在那一次攻击中\n虽说一次攻击包含了多个攻次，但是我们日常在打副本的时候只会一般也只会看到一次伤害。这其实是攻次过高，系统自动帮我们把伤害组合到了一起，最能说明这个问题的就是法师。各位朋友可以留意一下10攻次以下的法师伤害的表现形式和10攻次以上的伤害表现形式，这里我就直接给出答案了：十攻次以下的伤害是流伤(一次一次的出伤害)，十攻次及以上就是一次性伤害==>这里需要注意一下：虽然伤害表现形式不同，但是总归都是一次攻击，系统记录单体伤害时是没有区别的\n\n介绍完多个攻次与单次攻击的关系可能有的朋友又会问了，道理我都懂为啥我的法师伤害这么低？\n这就引出了另一个问题：很久以前法师普遍只有2攻次，然后有的朋友延续了法师低攻次的玩法，觉得法师没必要堆攻次。\n其实这种想法不算错，但也不算对。法师作为没有武商加成(法杖武商太低忽略不计)的职业，太高的攻次确实没啥用，但是适当的叠一点攻次也是可以的。因为中等的法师一般都是没有棒棒糖或者双鱼的，致命只有青鸟和技能的加成，这种情况下大部分的法师致命其实都是不太过关的(致命800满)，对于这种情况，攻次多一点可以让法师的伤害更稳定一些。再一个就是，其实每个攻次都是有伤害上限的，单攻次的伤害上限是：418758，所以法师要打满伤害最低要5个攻次才行。所以法师学个加攻次的技能也是挺不错的，比如贤者的：权杖使用\n\n说完法师然后我们来谈谈暴力空手。暴力空手和法师一样都是属于没有武商加成的职业，那他是不是像上面法师那样只需要5个攻次就够了呢?\n很抱歉，这种想法也不太对。法师可以4攻次是因为魔法攻击不会受到格挡的影响，但是暴力空手作为物理系职业那就一定绕不过格挡对其造成的影响。\n格挡最多可以抵挡7个攻次的伤害，所以暴空可不能像法师那样潇洒，5个攻次就可以高枕无忧了。作为物理系，暴力空手想要比较容易打满伤害至少得要7+4=11攻次才行\n\n这里再插一句：暴力空手虽然数据比较漂亮，但实际上是上不了台面的。由于没有武商加成的缘故，暴力空手和法师差不多，伤害上限都在：198w(法师有武伤上限会高一丢丢)==>上面有伤害计算公式，不信的朋友可以自行带入计算\n\n4、对于辅助而言，攻次又该处于何种地位?\n\n在上面的介绍中无论是有武商加成的还是没有武商加成的暴力或者爆法都或多或少的需要攻次，来提升、稳固伤害。那对于辅助而言，攻次又该何去何从呢?\n额，这个问题怎么说呢，其实辅助也需要攻次，但辅助和输出职业不太相同，输出职业需要攻次是为了伤害，辅助职业为了攻次是为了技能的命中率。\n\n可能有的朋友觉得因为空手辅助因为有赤练，飘飘所以为了能打到怪物需要攻次，没错，但这其实只是一半原因，另一半原因就是魔法攻击、诅咒攻击。高攻次可以让辅助的魔法、诅咒攻击更容易命中对方，就像上面所提到的：虽然只有一次攻击，但那一次攻击实际上包含了多个攻次，所以辅助也是需要攻次的。\n\n在世界online中可能只有一类技能是不需要攻次的，即：没有绑状态的祝福技能\n但是如果说这类技能不需要攻次也不太合理，因为作为技能都至少需要一个攻次来发动，不然一次攻击包含0个攻次也是没有意义的，只能说这类祝福技能不吃攻次，不能说它不需要攻次。==>说这个这并不是没有用的，在游戏里有的怪他的技能就是扣除玩家角色的攻次的，所以有的时候你会发现人物或宠物用了祝福技能但是并没有效果的情况。但是这种情况终归来说还是太少了，了解一下即可",
+      "article": "想要完全搞明白攻次有什么用，就得先明白攻次的意义。\n\n有的朋友可能觉得攻次没啥好讲的，那不就是攻击次数嘛，攻次越高伤害越高这是大家都知道的常识\n\n那我们说一个大部分玩家可能都不太清楚的；我想问问各位：\na.攻次有上限吗，如果有，那上限是多少\nb.攻次的伤害是怎么转化的(伤害计算公式)\nc.多个攻次与单次攻击的关系，与伤害上限的关系\nd.对于辅助而言，攻次又该处于何种地位?\n\n如果以上问题您不能解答，那么这篇文章一定会对您有所帮助；如果以上问题您都能知道答案，那么我们仍希望在其他地方能够对您有所帮助。\n\n1、攻次有上限吗?\n\n答案是肯定的。攻次是有上限的，根据经验总结以及玩家间的流传，攻次的上限基本上可以确定为：99\n\n当然，如果只给朋友们说攻次上限而不说计算方式，难免有的朋友会为了去寻求攻次的计算方法而浪费时间。那这里我们就废话不多说，把问题一次给各位朋友讲明白。\n\n攻次的计算方法为：属性面板攻次+自动技能所加攻次+主动技能附带攻次\n\n这里要注意一下：自动技能是+攻次，主动技能是附加攻次，这两个加法是不相同的==>技能所+攻次是有持续回合的，而技能附加攻次是只有使用这个技能才会+的，所以并没有持续回合\n\n就比如魔化武器技能属性：+6攻次，持续5回合，总共可以给我们+30个攻次\n\n但是虽然主动技能大部分也都有持续回合，但是技能属性是附加攻次，所以并不具备持续叠加的要求\n(当然并不是说主动技能就没有能叠加攻次的技能，只是在常规打副本的时候并不会使用该类技能，所以不考虑。如果一定要深究，那可以参考一下文章：关于刷伤害  那个文章对这个技能 【 完全狂暴 】 有比较详细的介绍)\n\n2、攻次的伤害是怎么转化的\n现在我们已经知道攻次的计算方法了\n那么接下来由我为各位介绍攻次的作用：\n伤害=【(最高武商+最低武商)/2*攻次+百万攻击力】*1.5*(1+0.2+0.1)\n注：1.5为致命伤害加成、0.2为衰弱状态加成、0.1为流血状态加成，1是伤害本身\n\n上诉公式是精简后的，新手玩家如不能理解可以试着使用如下公式：\n伤害={(百万/总攻次+武伤)*实际攻次}*(150%的致命伤害)*(敌人负面状态比如衰弱1.2倍，流血1.1倍，两个都有是1.3倍)*(1-防御值减伤率)*(1-伤害减免率)\nPS:实际攻次是指在闪避格挡所衰减过后的攻次。\n比如总攻次60，百分百命中，再格挡7次的情况下，实际攻次为53\n因为实战中被格挡基本是常态，而且被格挡7次的概率是非常高的所以这里就默认减去7攻次\n此更改意见由微信小程序玩家-瑾瑜提出；同时他也是微信公众号：世界OL百宝箱作者，感兴趣的朋友可以自行了解\n\n单攻次伤害上限为：418758【由玩家封影、游马提供】\n根据伤害计算公式可得：在武商既定的情况下，攻次越高伤害越高(攻次未到上限的情况下)\n然后根据上面的推论，攻次好像是和伤害直接挂钩的，好像和辅助没啥关系?这个问题我们留到后面一起讲\n\n3、多个攻次与单次攻击的关系，与伤害上限的关系\n\n有没有朋友和我一样有过这个疑惑：明明是多个攻次，打敌人的时候却只有一次伤害呢，最明显的是对面有两个盾的情况下，我多个攻次攻击对方，对方只会损失一个盾\n\n其实这个问题就是没有弄明白多个攻次与单次攻击的关系，即：攻次再多我们在攻击的时候也只会攻击一次，所有的攻次都会包含在那一次攻击中\n虽说一次攻击包含了多个攻次，但是我们日常在打副本的时候只会一般也只会看到一次伤害。这其实是攻次过高，系统自动帮我们把伤害组合到了一起，最能说明这个问题的就是法师。各位朋友可以留意一下10攻次以下的法师伤害的表现形式和10攻次以上的伤害表现形式，这里我就直接给出答案了：十攻次以下的伤害是流伤(一次一次的出伤害)，十攻次及以上就是一次性伤害==>这里需要注意一下：虽然伤害表现形式不同，但是总归都是一次攻击，系统记录单体伤害时是没有区别的\n\n介绍完多个攻次与单次攻击的关系可能有的朋友又会问了，道理我都懂为啥我的法师伤害这么低？\n这就引出了另一个问题：很久以前法师普遍只有2攻次，然后有的朋友延续了法师低攻次的玩法，觉得法师没必要堆攻次。\n其实这种想法不算错，但也不算对。法师作为没有武商加成(法杖武商太低忽略不计)的职业，太高的攻次确实没啥用，但是适当的叠一点攻次也是可以的。因为中等的法师一般都是没有棒棒糖或者双鱼的，致命只有青鸟和技能的加成，这种情况下大部分的法师致命其实都是不太过关的(致命800满)，对于这种情况，攻次多一点可以让法师的伤害更稳定一些。再一个就是，其实每个攻次都是有伤害上限的，单攻次的伤害上限是：418758，所以法师要打满伤害最低要5个攻次才行。所以法师学个加攻次的技能也是挺不错的，比如贤者的：权仗使用\n\n说完法师然后我们来谈谈暴力空手。暴力空手和法师一样都是属于没有武商加成的职业，那他是不是像上面法师那样只需要5个攻次就够了呢?\n很抱歉，这种想法也不太对。法师可以4攻次是因为魔法攻击不会受到格挡的影响，但是暴力空手作为物理系职业那就一定绕不过格挡对其造成的影响。\n格挡最多可以抵挡7个攻次的伤害，所以暴空可不能像法师那样潇洒，5个攻次就可以高枕无忧了。作为物理系，暴力空手想要比较容易打满伤害至少得要7+4=11攻次才行\n\n这里再插一句：暴力空手虽然数据比较漂亮，但实际上是上不了台面的。由于没有武商加成的缘故，暴力空手和法师差不多，伤害上限都在：198w(法师有武伤上限会高一丢丢)==>上面有伤害计算公式，不信的朋友可以自行带入计算\n\n4、对于辅助而言，攻次又该处于何种地位?\n\n在上面的介绍中无论是有武商加成的还是没有武商加成的暴力或者爆法都或多或少的需要攻次，来提升、稳固伤害。那对于辅助而言，攻次又该何去何从呢?\n额，这个问题怎么说呢，其实辅助也需要攻次，但辅助和输出职业不太相同，输出职业需要攻次是为了伤害，辅助职业为了攻次是为了技能的命中率。\n\n可能有的朋友觉得因为空手辅助因为有赤练，飘飘所以为了能打到怪物需要攻次，没错，但这其实只是一半原因，另一半原因就是魔法攻击、诅咒攻击。高攻次可以让辅助的魔法、诅咒攻击更容易命中对方，就像上面所提到的：虽然只有一次攻击，但那一次攻击实际上包含了多个攻次，所以辅助也是需要攻次的。\n\n在世界online中可能只有一类技能是不需要攻次的，即：没有绑状态的祝福技能\n但是如果说这类技能不需要攻次也不太合理，因为作为技能都至少需要一个攻次来发动，不然一次攻击包含0个攻次也是没有意义的，只能说这类祝福技能不吃攻次，不能说它不需要攻次。==>说这个这并不是没有用的，在游戏里有的怪他的技能就是扣除玩家角色的攻次的，所以有的时候你会发现人物或宠物用了祝福技能但是并没有效果的情况。但是这种情况终归来说还是太少了，了解一下即可",
       "strategyAuthor": "芳芳",
       "date": "2023-02-15T13:51:27.834Z",
       "reprint": false,
@@ -112157,7 +112157,7 @@
     },
     {
       "name": "状态大全",
-      "article": "【属性增加】\n用于占位置的状态(buff)，无实际效果\n\n【属性减少】\n用于占位置的状态(buff)，无实际效果\n\n【持续回魔】(新增介绍)\n在官服中该属性效果为：每回合回复最大蓝量值0.5%，扣完不回复(部分副本不生效)\n在除官服外的其他版本中无实际效果(官服包括其他渠道服，不包括小程序、h5等其他版本)\n\n【持续回血】(新增介绍)\n在官服中该属性效果为：每回合回复最大血量值0.5%，扣完不回复(部分副本不生效)\n在除官服外的其他版本中无实际效果(官服包括其他渠道服，不包括小程序、h5等其他版本)\n\n【幻影】\n所有劈砍、穿刺、祝福的 【范围攻击】 无法对幻影状态的角色产生效果\n\n【流血】\n流血状态，每回合恢复生命属性无效果\n所受伤害增加10%，伤害减免效果减半\n\n【衰弱】 ==对应状态==>【免疫衰弱】\n衰弱状态，所受伤害增加20%，伤害减免效果减半\n\n【免疫衰弱】\n衰弱效果对其无效\n\n【中毒】\n处于中毒状态，每回合自动恢复法力、基础法力吸收属性无效果\n当受到法力点数恢复、百分比恢复时，恢复效果减半\n\n【火烧】\n处于火烧状态，每回合自动恢复生命、基础生命吸收属性无效果\n当受到生命点数恢复、百分比恢复时，恢复效果减半\n\n【无敌】\n处于无敌状态，免疫物理攻击、免疫魔法攻击、免疫诅咒攻击\n无法添加任何状态(buff)、无法添加任何负面状态(debuff)，可以添加无状态祝福属性\n可以死亡\n\n【魔免(魔攻无效)】\n处于魔免状态，不会受到魔法攻击和诅咒攻击，也不会受到魔法反馈\n未处于魔免状态时，攻击即使被目标洞察掉也会受到魔法反馈\n\n【物免(物攻无效)】\n处于物免状态，不会受到物理攻击，也不会受到反击 \n未处于物免状态时，攻击即使被目标格挡掉也会受到反击伤害\n\n【混乱】 ==对应状态==>【免疫混乱】\n混乱状态下角色无法释放自动技能，主动技能会随机目标，但依然遵守技能目标范围\n当宠物处于：混乱、定身、嘲讽等状态时，或人物有盾的情况下百挡失效\n2024/5/4：官服混乱状态解释更新\n在联网战斗状态下，角色混乱也可释放范围不为自身的自动技能，自动技能会随机目标，但依然遵守技能目标范围\n本地战斗状态下，角色混乱依然无法释放自动技能\n此改动目前只在官服发现，其他版本尚未发现更改\n\n【免疫混乱】\n混乱效果对其无效\n\n【封魔】 ==对应状态==>【免疫封魔】\n无法使用所有技能\n\n【免疫封魔】\n封魔效果对其无效\n\n【禁言】 ==对应状态==>【免疫禁言】\n无法使用诅咒、魔法、祝福技能\n\n【免疫禁言】\n禁言效果对其无效\n\n【封技】 ==对应状态==>【免疫封技】\n无法使用物理技能\n\n【免疫封技】\n封技效果对其无效\n\n【定身】 ==对应状态==>【免疫定身】\n处于定身状态，无法使用技能与攻击，不能使用药物，不能逃跑\n攻击处于“定身”状态下的目标时，不会受到目标的反击/魔法反馈\n当宠物处于：混乱、定身、嘲讽等状态时，或人物有盾的情况下百挡失效\n\n【免疫定身】\n定身效果对其无效\n\n【嘲讽 ==对应状态==>免疫嘲讽】\n处于嘲讽状态，无法使用技能，只能使用普通攻击，并且只能攻击嘲讽施法对象\n当宠物处于：混乱、定身、嘲讽等状态时，或人物有盾的情况下百挡失效\n\n【免疫嘲讽】\n嘲讽效果对其无效\n\n【全减益免疫】\n处于全减益免疫状态，除天生状态外不会中其他任何负面状态(debuff)\n\n【驱逐】\n复活、不死意志、死者苏生效果对处于该状态目标无效\n\n【不死意志】\n死亡后，会复活并恢复1点生命。一场战斗只能生效一次\n\n【死者苏生】\n死亡后，会复活并恢复所有生命，一场战斗只能生效一次\n\n【死亡傀儡】\n生命值为0时，不会马上死亡。直到回合结束时才会触发死亡效果。一场战斗只生效一次。\n\n技能词条中带有【目标】、【无视】的，扣除属性只对自己生效，且没有回合效果。\n而直接扣除属性值的技能词条则可以跟着技能自带的持续回合产生持续效果。\n ——摘自《关于技能附带的扣除属性探究》——\n\n【清除类】技能只要满足联网战斗的要求就可以跨越幻影的阻碍，不过也需要遵循以下规则：\na、物理攻击类技能即使有清除增、减益属性也无法横跨幻影\nb、诅咒、魔法攻击类技能即使有清除增、减益属性也无法打中魔攻无效的对象\n ——摘自《技能属性进阶》——\n\n更新于：2024年9月5日",
+      "article": "【属性增加】\n用于占位置的状态(buff)，无实际效果\n\n【属性减少】\n用于占位置的状态(buff)，无实际效果\n\n【持续回魔】(新增介绍)\n在官服中该属性效果为：每回合回复当前蓝量值0.5%，扣完不回复\\n在小程序版本则表现为：每回合回复最大蓝量值0.5%，扣完也回复\\n目前仅汉正h5版本未实装回复状态效果\n\n【持续回血】(新增介绍)\n在官服中该属性效果为：每回合回复当前血量值0.5%，扣完不回复\\n在小程序版本则表现为：每回合回复最大蓝量值0.5%，扣完也回复\\n目前仅汉正h5版本未实装回复状态效果\n\n【幻影】\n所有劈砍、穿刺、祝福的 【范围攻击】 无法对幻影状态的角色产生效果\n\n【流血】\n流血状态，每回合恢复生命属性无效果\n所受伤害增加10%，伤害减免效果减半\n\n【衰弱】 ==对应状态==>【免疫衰弱】\n衰弱状态，所受伤害增加20%，伤害减免效果减半\n\n【免疫衰弱】\n衰弱效果对其无效\n\n【中毒】\n处于中毒状态，每回合自动恢复法力、基础法力吸收属性无效果\n当受到法力点数恢复、百分比恢复时，恢复效果减半\n\n【火烧】\n处于火烧状态，每回合自动恢复生命、基础生命吸收属性无效果\n当受到生命点数恢复、百分比恢复时，恢复效果减半\n\n【无敌】\n处于无敌状态，免疫物理攻击、免疫魔法攻击、免疫诅咒攻击\n无法添加任何状态(buff)、无法添加任何负面状态(debuff)，可以添加无状态祝福属性\n可以死亡\n\n【魔免(魔攻无效)】\n处于魔免状态，不会受到魔法攻击和诅咒攻击，也不会受到魔法反馈\n未处于魔免状态时，攻击即使被目标洞察掉也会受到魔法反馈\n\n【物免(物攻无效)】\n处于物免状态，不会受到物理攻击，也不会受到反击 \n未处于物免状态时，攻击即使被目标格挡掉也会受到反击伤害\n\n【混乱】 ==对应状态==>【免疫混乱】\n混乱状态下角色无法释放自动技能，主动技能会随机目标，但依然遵守技能目标范围\n当宠物处于：混乱、定身、嘲讽等状态时，或人物有盾的情况下百挡失效\n2024/5/4：官服混乱状态解释更新\n在联网战斗状态下，角色混乱也可释放范围不为自身的自动技能，自动技能会随机目标，但依然遵守技能目标范围\n本地战斗状态下，角色混乱依然无法释放自动技能\n此改动目前只在官服发现，其他版本尚未发现更改\n\n【免疫混乱】\n混乱效果对其无效\n\n【封魔】 ==对应状态==>【免疫封魔】\n无法使用所有技能\n\n【免疫封魔】\n封魔效果对其无效\n\n【禁言】 ==对应状态==>【免疫禁言】\n无法使用诅咒、魔法、祝福技能\n\n【免疫禁言】\n禁言效果对其无效\n\n【封技】 ==对应状态==>【免疫封技】\n无法使用物理技能\n\n【免疫封技】\n封技效果对其无效\n\n【定身】 ==对应状态==>【免疫定身】\n处于定身状态，无法使用技能与攻击，不能使用药物，不能逃跑\n攻击处于“定身”状态下的目标时，不会受到目标的反击/魔法反馈\n当宠物处于：混乱、定身、嘲讽等状态时，或人物有盾的情况下百挡失效\n\n【免疫定身】\n定身效果对其无效\n\n【嘲讽 ==对应状态==>免疫嘲讽】\n处于嘲讽状态，无法使用技能，只能使用普通攻击，并且只能攻击嘲讽施法对象\n当宠物处于：混乱、定身、嘲讽等状态时，或人物有盾的情况下百挡失效\n\n【免疫嘲讽】\n嘲讽效果对其无效\n\n【全减益免疫】\n处于全减益免疫状态，除天生状态外不会中其他任何负面状态(debuff)\n\n【驱逐】\n复活、不死意志、死者苏生效果对处于该状态目标无效\n\n【不死意志】\n死亡后，会复活并恢复1点生命。一场战斗只能生效一次\n\n【死者苏生】\n死亡后，会复活并恢复所有生命，一场战斗只能生效一次\n\n【死亡傀儡】\n生命值为0时，不会马上死亡。直到回合结束时才会触发死亡效果。一场战斗只生效一次。\n\n技能词条中带有【目标】、【无视】的，扣除属性只对自己生效，且没有回合效果。\n而直接扣除属性值的技能词条则可以跟着技能自带的持续回合产生持续效果。\n ——摘自《关于技能附带的扣除属性探究》——\n\n【清除类】技能只要满足联网战斗的要求就可以跨越幻影的阻碍，不过也需要遵循以下规则：\na、物理攻击类技能即使有清除增、减益属性也无法横跨幻影\nb、诅咒、魔法攻击类技能即使有清除增、减益属性也无法打中魔攻无效的对象\n ——摘自《技能属性进阶》——\n\n更新于：2024年9月5日",
       "strategyAuthor": "芳芳",
       "date": "2023-04-18T07:35:33.200Z",
       "reprint": false,
@@ -112260,7 +112260,7 @@
     },
     {
       "name": "部分装备鉴定及升星属性",
-      "article": "闪光银月护符：32星属性\n        属性1  魔命、破甲26%/魔命、致命104/生命、法力2600/魔防65%/力量、敏捷、体质、感知、智力78\n        属性2  感知、力量29%/魔攻、穿刺47%/魔命、力量、感知104/破甲26%\n        属性3  法力上限、敏捷、智力29%/命中、智力、魔命、敏捷、致命104/劈砍47%/魔防格挡未知\n        属性4  感知、智力、体质、力量、敏捷29%/感知、力量、智力104/致命率26%\n\n狼魔肩：          升星幅度3%   27星（×1.81）\n        属性1  血量462\n        属性2  感知16%\n        属性3  穿刺21%\n        属性4  命中10%\n\n梦幻之星：         升19星 升星幅度3%（×1.57）\n        属性1  魔法命中+209\n        属性2  智力加22%/感知加22%\n        属性3  洞察加32%/无视魔法反馈225\n        属性4  魔攻加30%/致命加150\n\n云龙进阶\n        属性1  生命\n        属性2  无视抵抗\n        属性3  免伤\n\n远古进阶\n        属性1  法力/法力护/魔命\n        属性2  吸血25/抵抗/反馈\n        属性3  吸蓝25/无视抵抗/\n\n葬送系列\n衣服                  升24星 升星幅度3%（×1.72）\n        属性1  出手11%/出手669/生命669/生命11%\n        属性2  敏捷8%/敏捷66/闪避85/闪避8%\n        属性3  命中63/命中率8%/格挡210\n        属性4  武伤10%/空手伤害14%\n\n腰带                   升24星 升星幅度3%（×1.72）\n        属性1  法力护盾13%/法力护盾669/魔攻669/\n        属性2  法力669/法力14%/感知59\n        属性3  回血/回蓝/魔命48\n        属性4  魔攻10%/闪避72/出手669\n\n漆黑的血烟披风      升32星 升星幅度3%（×1.96）\n        属性1  生命\n        属性2  穿刺\n        属性3  命中率\n        属性4  敏捷14%\n\n恶梦剑              升32星 升星幅度3%（×1.96）\n        属性1  出手455\n        属性2  闪避136\n        属性3  魔穿/破甲797\n        属性4  命中/魔命149\n\n恶梦魔剑              升32星 升星幅度2%（×1.64）\n        属性1  出手455\n        属性2  闪避136\n        属性3  魔穿/破甲797\n        属性4  命中/魔命149\n\n雀舞 :20星，升幅3％（×1.6）\n        属性1  命中率/躲闪/格挡/+7%\n        属性2  无视洞察/无视格挡/+250\n        属性3  刀类伤害、耐久+7%\n        属性4  无视状态抵抗/无视伤害减免/+250\n        属性5  劈砍攻击力/+12%\n\n破魔的鉴定:    20星，升星幅度3%（×1.6）\n        属性1  破甲，最高1460\n        属性2  致命点，最高40;或武器伤害28%\n        属性3  致命率，最高28%;或劈砍攻击提升40%\n        属性4  力量，最高28%;或无视伤害减免330\n\n天使契约圣枪：  升20星，升幅3%（×1.6）\n        属性1  破甲1650\n        属性2  致命/闪避263/格挡\n        属性3  敏捷18%\n        属性4  反击/无视反击/免伤268\n        属性5  穿刺+33%\n\n\n青鸾：升18星 升星幅度4%（×1.72）\n        属性1  魔命109/洞察/无视洞察208\n        属性2  致命248，\n        属性3  魔穿41%，智力，无视反馈208，致命109\n        属性4  魔命/魔攻41%，无视免伤208\n\n\n末日战袍：升星幅度3%   18星（×1.54）\n        属性1  无视反馈/反击280   \n        属性2  致命103/魔穿2560   \n        属性3  魔命/命中111   \n        属性4  出手1000/魔攻15％\n\nMJ披风：：升星幅度2%   25星（×1.5）\n        属性1  无视免伤/抵抗/洞察200\n        属性2  免伤/抵抗/洞察200\n        属性3  格挡/抵抗/洞察16%\n        属性4  出手/命中率15%\n\n英雄腰带         升星幅度3%   18星（×1.54）\n        属性1  生命上限8%，无视免伤114，无视抵抗114，血量\n        属性2  法力上限1216，反馈72\n        属性3  生命上限1216，反击72\n        属性4  免伤105，抵抗55，基础抵抗10%\n\n古代英雄       升星幅度2%   18星（×1.36）\n        属性1  血/蓝1483\n        属性2  魔穿/法力护盾776\n        属性3  致命55/免伤100，法杖伤害/法器伤害10%\n        属性4  魔命105反击105\n古代进阶：\n        属性1  无视反馈/法力/感知\n        属性2  无视洞察/魔穿/魔命\n        属性3  无视免伤/智力\n\n星月冥：      升星幅度2%   18星（×1.36）\n        属性1  1483生命\n        属性2  776破甲/663出手\n        属性3  10剑/刀/空手/远程\n        属性4  297闪避/命中\n 星月进阶：        (升18星，升幅2％)\n        属性1  231；生命，法力，破甲213\n        属性2  35；格挡，无视免伤，免伤\n        属性3  35；敏捷，反击，无视反击\n    \n紫云：        升星幅度2%   18星（×1.36）\n        属性1  法力/生命2033\n        属性2  出手/法力护盾966\n        属性3  回蓝335/法杖/法球10%\n        属性4  反击105/魔命10%\n紫云进阶:        (升18星，升幅2％)\n        属性1  231；法力，出手，法力护盾321\n        属性2  35；抵抗，反馈，闪避\n        属性3  35；致命，洞察，无视洞察\n\n雄鹰：        升星幅度4%   18星（×1.72）\n        属性1  1765出手\n        属性2  280格挡\n        属性3  280抵抗\n        属性4  280反馈/反击\n\n竹叶       升星幅度4%   18星（×1.72）\n        属性1  无视免伤396/强命25/90吸血\n        属性2  穿刺35%/410免伤\n        属性3  用刀/长柄/剑武伤35%/全武伤30%/致命241\n\n神圣       升星幅度4%   18星（×1.72）\n        属性1  力量/敏捷90    无视抵抗380      感知/智力120\n        属性2  劈砍40%   无视免伤382  /免伤    \n        属性3  用刀/法杖/法器攻次3，无视反馈355   出手1838\n\n\n姻缘石\n        属性1  法力   血量460\n        属性2  命中  格挡  魔命80\n        属性3  无视免伤  洞察  无视抵抗120\n        属性4  免伤 反击120\n\n日落       升20星，升幅4%（×1.8）\n        属性1  法力护盾/法力上限/魔法穿透+900\n        属性2  魔法反馈/致命点/魔法命中+30\n        属性3  魔法命中+15%\n        属性4  魔法攻击力+15%\n进阶       升20星，升幅3%（×1.6）\n        属性1  魔穿/法力护盾/法力    \n        属性2  洞察/反馈/致命\n        属性3  无视洞察/无视反馈/法力\n        属性4  30魔命/智力\n\n天使       升20星，升幅4%（×1.8）\n        属性1  法力上限/生命上限+900               \n        属性2  命中/躲闪/致命点+150\n        属性3  空手伤害/重型武器伤害、耐久/远程武器伤害、耐久+13%\n        属性4  劈砍攻击力/穿刺攻击力+15%\n进阶       \n        属性1  24力量\n        属性2  格挡\n        属性3  无视格挡\n        属性4  无视免伤\n\n黎明       升20星，升幅4%（×1.8）\n        属性1  法力上限/生命上限+900\n        属性2  状态抵抗值/伤害减免/洞察+50\n        属性3  洞察/伤害减免/出手+9%\n        属性4  魔法攻击力/生命上限/感知+11%\n进阶       升20星，升幅3%（×1.6）\n        属性1  血量/法力                      \n        属性2  无视洞察/闪避/反馈\n        属性3  感知/智力/体质28\n        属性4  格挡/抵抗/反击\n\n炽天使       升20星，升幅4%（×1.8）\n        属性1  破甲/生命上限/法力上限+900\n        属性2  命中/伤害减免/格挡+150\n        属性3  剑类武器伤害、耐久/刀类伤害、耐久/长柄武器伤害+13%\n        属性4  劈砍攻击力/穿刺攻击力+15%\n进阶       升20星，升幅3%（×1.6）\n        属性1  20力量/20敏捷            \n        属性2  格挡/20命中/反击\n        属性3  26抵抗/无视免伤/免伤\n        属性4  26无视反击/致命/反击\n\n女神       升20星，升幅4%（×1.8）\n        属性1  法力上限/生命上限/破甲900\n        属性2  命中/躲闪/致命点+150（120）\n        属性3  火枪类伤害/重型武器伤害、耐久/远程武器伤害、耐久+13%\n        属性4  劈砍攻击力/穿刺攻击力+15%\n\n进阶       \n        属性1  吸血28/无视反击\n        属性2  无视格挡28\n        属性3  致命22/格挡0/免伤28\n        属性4  吸蓝28/命中22/\n\nMj衣服       升22星，升幅2%（×1.44）\n        属性1  法力/血量1941，20%\n        属性2  法力/血量1949，23%\n        属性3  魔命/魔命39%\n        属性4  魔命/魔命39%\n\nMj手套       升22星，升幅2%（×1.44）\n        属性1  血量/法力1698/生命上限22%\n        属性2  法力/生命/出手832\n        属性3  命中率40%，254命中\n        属性4  破甲/致命率20%\n\nMj头盔       升22星，升幅2%（×1.44）\n        属性1  法力/血量1332，18%\n        属性2  法力/血量1698，25%血\n        属性3  免伤246反击/反馈\n        属性4  免伤239反击/反馈\n\n三生石戒指       升22星，升幅3%（×1.66） \n        属性1  生命/法力750\n        属性2  无视状态抵抗/无视洞察/无视伤免100\n        属性3  合成反馈100/伤免100/状态100/洞察100/盾1\n        属性4  魔法命中/命中/致命80\n        属性5  伤免120/自动恢复180/盾1\n\n玲珑护手       升22星，升幅3%（×1.66）\n        属性1  出手400\n        属性2  格挡/闪避/命中280\n        属性3  敏捷12%\n        属性4  无视反击/无视免伤280\n        属性5  空手伤25%\n\n强暴的南瓜头盔       \n       属性1  合成属性无视抵抗/免伤150\n       属性2  枪/刀/剑攻次+2\n       属性3  劈砍/穿刺/魔法攻击力30%\n\n9级吞噬法书       \n       属性1  法力15%/法力1000\n       属性2  魔法命中/致命/躲闪250\n       属性3  合成属性无视伤免/无视洞察/无视反馈/无视状态抵抗250\n       属性4  感知、智力30%/法器伤害35%/法球攻次3\n       属性5  魔攻2100/35%魔攻\n\n抉择之刃（银）       18星，升幅3％（×1.54）\n       属性1  格挡／命中300，破甲1800\n       属性2  抵抗／免伤300，无视免伤猜测300\n       属性3  剑攻次＋2\n       属性4  穿刺／劈砍攻击力38％\n       属性5  剑伤35％\n\n控制破坏者-天蝎座       \n       属性1  破甲\n       属性2  无视免伤\n       属性3  火枪类武伤54%\n       属性4  力量\n       属性5  穿刺攻击力\n\n炽天使·射手座       18星，升幅3％（×1.54）\n       属性1  生命/法力888/闪避0\n       属性2  命中/致命/闪避60\n       属性3  合成无视伤免/无视状态抵抗300\n       属性4  无视洞察/无视格挡/无视反击300\n       属性5  穿刺攻击力15%\n\n神之宽恕       \n       属性1  破甲3542\n       属性2  无视免伤154\n       属性3  重型武伤+54%\n       属性4  力量25%\n       属性5  劈砍攻击力+54%\n\n喜羊羊☆（绑定升星）       升星幅度:4%\n       属性1  \n       属性2  洞察/反击/状态抵抗值/魔法反馈+220(合成鉴定属性)\n       属性3  洞察/反击/状态抵抗值/魔法反馈+220\n       属性4  躲闪/格挡/伤害减免+220/免伤护盾+1\n       技能  金羊开泰+10级\n       护甲:劈砍2000 穿刺2000 魔法2000\n       需求70级 耐久200/200\n       又萌又呆的绵羊坐骑，适合女生\\\n\n时空狮鹫       \n       属性1  血量\n       属性2  长柄武器伤害60%\n       属性3  命中482\n       属性4  穿刺攻击力60%\n\n霹雳摩托       升18星 升星幅度4%（×1.72）\n       属性1  出手速度，破甲，生命 (+2000) \n       属性2  合成剑伤，枪伤，空气伤 (+30％) \n       属性3  无视反击，无视伤害减免，致命 (+250) \n       属性4  穿刺攻击力+50％\n\n浴血凤凰       升18星 升星幅度4%（×1.72）\n       属性1  出手/血量2200\n       属性2  洞察300\n       属性3  无视洞察/无视抵抗/无视免伤300\n       属性4  抵抗/伤害减免300\n\n炽焰朱雀       升17星  升星幅度4%（×1.68）\n       属性1  出手/生命2300\n       属性2  状态/无视抵抗/格挡无视300\n       属性3  300魔法反馈/300闪避/250无视状态抵抗\n       属性4  伤免300/免伤护盾3\n\n变形金刚·擎天柱（满星）       升星幅度:4%\n       属性1  抵抗492 反击/闪避/抵抗300\n       属性2  合成属性洞察328 \n       属性3  免伤300/3盾\n       属性4  劈防/魔防/穿防45%\n\n机械先驱       升17星  升星幅度4%（×1.68）\n       属性1  法力\n       属性2  37%火枪类武伤\n       属性3  格挡/无视格挡\n       属性4  46%穿刺攻击力\n\n棒棒糖·蓝色妖姬\n       属性1  出手1678%\n       属性2  无视洞察106\n       属性3  无视抵抗453\n       属性4  致命率5%\n       属性5  穿刺攻击力41%\n\n水晶先锋·致命毒蝎       升17星  升星幅度:4%（×1.68）\n       属性1  破甲1800\n       属性2  38*武伤\n       属性3  38%穿刺攻击力\n       属性4  无视格挡/免伤412\n\n\n帝王·美人蝎       升17星  升星幅度:4%（×1.68）\n       属性1  破甲1800\n       属性2  远程武器伤害38%\n       属性3  无视反击412/无视免伤/无视格挡\n       属性4  穿刺攻击力38%\n\n轻语法杖       升17星  升星幅度:3%（×1.51）\n       属性1  257魔命\n       属性2  300无视洞察/免伤\n       属性3  300无视洞察/免伤\n\n放逐之刃       升17星  升星幅度:3%（×1.51）\n       属性1  破甲1800\n       属性2  命中250/格挡\n       属性3  刀伤33%/用刀攻次+2\n       属性4  力量33%\n       属性5  劈砍攻击力45%\n\n葬送       升18星  升星幅度:4%（×1.72）\n       属性1  出手12%\n       属性2  敏捷10%88\n       属性3  命中10%\n       属性4  无视抵抗/无视格挡/无视免伤/无视反击200\n       属性5  武器伤害13%/空手20%\n\n康乃馨       \n       属性1  生命/魔命188\n       属性2  致命216\n       属性3  魔穿41%/法力护盾/无视反馈267\n       属性4  魔攻41%/闪避221\n\n抉择金\n       属性1  破甲1800\n       属性2  命中300/致命300\n       属性3  无视免伤200\n       属性4  剑伤38%/格挡250\n       属性5  穿刺攻击力30%\n\n棉花糖\n       属性1  法力\n       属性2  抵抗\n       属性3  无视洞察\n       属性4  出手%\n\n流星腿  80级       升12星  升星幅度4%（×1.48）\n       属性1  法力/生命 /破甲 1500            \n       属性2  命中/格挡/闪避200\n       属性3  合成属性，无视免伤/无视反击280\n       属性4  无视格挡/无视反击/无视免伤280\n       属性5  刀伤/长柄伤/火枪/剑伤21%\n\n流星指环（水）  80级       升12星  升星幅度4%（×1.48）\n       属性1  血量300\n       属性2  魔命130/无视洞察\n       属性3  魔命130/无视洞察\n       属性4  各武器攻次+1\n\n流星指环（金）  80级\n       属性1  法力/血\n       属性2  无视抵抗/无视格挡\n       属性3  无视免伤/无视抵抗/无视反馈\n       属性4  各武器攻次+1\n\n流星指环（火）  80级       升12星  升星幅度4%（×1.48）\n       属性1  法力/血\n       属性2  洞察130/命中130\n       属性3  洞察130/命中130\n       属性4  各武器攻次+1\n\n流星岁月鞋  80级       升12星  升星幅度4%（×1.48）\n       属性1  闪避/洞察320/穿防5000              \n       属性2  免伤320/格挡320/劈防5000\n       属性3  抵抗320/魔防5000\n       属性4  反馈300/反击300/免伤护盾1\n\n感恩  80级       升12星  升星幅度5%（×1.6）\n       属性1  魔防25%，蓝/血1000，智力/敏捷/感知/体质/力量30，闪避/致命30，破甲/魔命10%\n       属性2  蓝/血1000，穿刺/魔攻18%，感知/力量/体质30，感知/力量/体质13%，命中/致命/躲闪/魔命40，破甲10%，\n       属性3  武伤12%（不详）\n       属性4  敏捷/智力13%，蓝/血1000，敏捷/智力30，魔防/穿防/劈防1200，魔命/命中/闪避/致命35，劈砍18%，蓝11%，格挡13%，致命率10%\n       属性5  智力/敏捷/感知/体质/力量13%，智力/敏捷/感知/体质/力量30，格挡13%，致命率10%",
+      "article": "闪光银月护符：32星属性\n        属性1  魔命、破甲26%/魔命、致命104/生命、法力2600/魔防65%/力量、敏捷、体质、感知、智力78\n        属性2  感知、力量29%/魔攻、穿刺47%/魔命、力量、感知104/破甲26%\n        属性3  法力上限、敏捷、智力29%/命中、智力、魔命、敏捷、致命104/劈砍47%/魔防格挡未知\n        属性4  感知、智力、体质、力量、敏捷29%/感知、力量、智力104/致命率26%\n\n狼魔肩：          升星幅度3%   27星（×1.81）\n        属性1  血量462\n        属性2  感知16%\n        属性3  穿刺21%\n        属性4  命中10%\n\n梦幻之星：         升19星 升星幅度3%（×1.57）\n        属性1  魔法命中+209\n        属性2  智力加22%/感知加22%\n        属性3  洞察加32%/无视魔法反馈225\n        属性4  魔攻加30%/致命加150\n\n云龙进阶\n        属性1  生命\n        属性2  无视抵抗\n        属性3  免伤\n\n远古进阶\n        属性1  法力/法力护/魔命\n        属性2  吸血25/抵抗/反馈\n        属性3  吸蓝25/无视抵抗/\n\n葬送系列\n衣服                  升24星 升星幅度3%（×1.72）\n        属性1  出手11%/出手669/生命669/生命11%\n        属性2  敏捷8%/敏捷66/闪避85/闪避8%\n        属性3  命中63/命中率8%/格挡210\n        属性4  武伤10%/空手伤害14%\n\n腰带                   升24星 升星幅度3%（×1.72）\n        属性1  法力护盾13%/法力护盾669/魔攻669/\n        属性2  法力669/法力14%/感知59\n        属性3  回血/回蓝/魔命48\n        属性4  魔攻10%/闪避72/出手669\n\n漆黑的血烟披风      升32星 升星幅度3%（×1.96）\n        属性1  生命\n        属性2  穿刺\n        属性3  命中率\n        属性4  敏捷14%\n\n恶梦剑              升32星 升星幅度3%（×1.96）\n        属性1  出手455\n        属性2  闪避136\n        属性3  魔穿/破甲797\n        属性4  命中/魔命149\n\n恶梦魔剑              升32星 升星幅度2%（×1.64）\n        属性1  出手455\n        属性2  闪避136\n        属性3  魔穿/破甲797\n        属性4  命中/魔命149\n\n雀舞 :20星，升幅3％（×1.6）\n        属性1  命中率/躲闪/格挡/+7%\n        属性2  无视洞察/无视格挡/+250\n        属性3  刀类武器伤害、耐久+7%\n        属性4  无视状态抵抗/无视伤害减免/+250\n        属性5  劈砍攻击力/+12%\n\n破魔的鉴定:    20星，升星幅度3%（×1.6）\n        属性1  破甲，最高1460\n        属性2  致命点，最高40;或武器伤害28%\n        属性3  致命率，最高28%;或劈砍攻击提升40%\n        属性4  力量，最高28%;或无视伤害减免330\n\n天使契约圣枪：  升20星，升幅3%（×1.6）\n        属性1  破甲1650\n        属性2  致命/闪避263/格挡\n        属性3  敏捷18%\n        属性4  反击/无视反击/免伤268\n        属性5  穿刺+33%\n\n\n青鸾：升18星 升星幅度4%（×1.72）\n        属性1  魔命109/洞察/无视洞察208\n        属性2  致命248，\n        属性3  魔穿41%，智力，无视反馈208，致命109\n        属性4  魔命/魔攻41%，无视免伤208\n\n\n末日战袍：升星幅度3%   18星（×1.54）\n        属性1  无视反馈/反击280   \n        属性2  致命103/魔穿2560   \n        属性3  魔命/命中111   \n        属性4  出手1000/魔攻15％\n\nMJ披风：：升星幅度2%   25星（×1.5）\n        属性1  无视免伤/抵抗/洞察200\n        属性2  免伤/抵抗/洞察200\n        属性3  格挡/抵抗/洞察16%\n        属性4  出手/命中率15%\n\n英雄腰带         升星幅度3%   18星（×1.54）\n        属性1  生命上限8%，无视免伤114，无视抵抗114，血量\n        属性2  法力上限1216，反馈72\n        属性3  生命上限1216，反击72\n        属性4  免伤105，抵抗55，基础抵抗10%\n\n古代英雄       升星幅度2%   18星（×1.36）\n        属性1  血/蓝1483\n        属性2  魔穿/法力护盾776\n        属性3  致命55/免伤100，法杖伤害/法器伤害10%\n        属性4  魔命105反击105\n古代进阶：\n        属性1  无视反馈/法力/感知\n        属性2  无视洞察/魔穿/魔命\n        属性3  无视免伤/智力\n\n星月冥：      升星幅度2%   18星（×1.36）\n        属性1  1483生命\n        属性2  776破甲/663出手\n        属性3  10剑/刀/空手/远程\n        属性4  297闪避/命中\n 星月进阶：        (升18星，升幅2％)\n        属性1  231；生命，法力，破甲213\n        属性2  35；格挡，无视免伤，免伤\n        属性3  35；敏捷，反击，无视反击\n    \n紫云：        升星幅度2%   18星（×1.36）\n        属性1  法力/生命2033\n        属性2  出手/法力护盾966\n        属性3  回蓝335/法杖/法球10%\n        属性4  反击105/魔命10%\n紫云进阶:        (升18星，升幅2％)\n        属性1  231；法力，出手，法力护盾321\n        属性2  35；抵抗，反馈，闪避\n        属性3  35；致命，洞察，无视洞察\n\n雄鹰：        升星幅度4%   18星（×1.72）\n        属性1  1765出手\n        属性2  280格挡\n        属性3  280抵抗\n        属性4  280反馈/反击\n\n竹叶       升星幅度4%   18星（×1.72）\n        属性1  无视免伤396/强命25/90吸血\n        属性2  穿刺35%/410免伤\n        属性3  用刀/长柄/剑武伤35%/全武伤30%/致命241\n\n神圣       升星幅度4%   18星（×1.72）\n        属性1  力量/敏捷90    无视抵抗380      感知/智力120\n        属性2  劈砍40%   无视免伤382  /免伤    \n        属性3  用刀/法杖/法器攻次3，无视反馈355   出手1838\n\n\n姻缘石\n        属性1  法力   血量460\n        属性2  命中  格挡  魔命80\n        属性3  无视免伤  洞察  无视抵抗120\n        属性4  免伤 反击120\n\n日落       升20星，升幅4%（×1.8）\n        属性1  法力护盾/法力上限/魔法穿透+900\n        属性2  魔法反馈/致命点/魔法命中+30\n        属性3  魔法命中+15%\n        属性4  魔法攻击力+15%\n进阶       升20星，升幅3%（×1.6）\n        属性1  魔穿/法力护盾/法力    \n        属性2  洞察/反馈/致命\n        属性3  无视洞察/无视反馈/法力\n        属性4  30魔命/智力\n\n天使       升20星，升幅4%（×1.8）\n        属性1  法力上限/生命上限+900               \n        属性2  命中/躲闪/致命点+150\n        属性3  空手伤害/重型武器伤害、耐久/远程武器伤害、耐久+13%\n        属性4  劈砍攻击力/穿刺攻击力+15%\n进阶       \n        属性1  24力量\n        属性2  格挡\n        属性3  无视格挡\n        属性4  无视免伤\n\n黎明       升20星，升幅4%（×1.8）\n        属性1  法力上限/生命上限+900\n        属性2  状态抵抗值/伤害减免/洞察+50\n        属性3  洞察/伤害减免/出手+9%\n        属性4  魔法攻击力/生命上限/感知+11%\n进阶       升20星，升幅3%（×1.6）\n        属性1  血量/法力                      \n        属性2  无视洞察/闪避/反馈\n        属性3  感知/智力/体质28\n        属性4  格挡/抵抗/反击\n\n炽天使       升20星，升幅4%（×1.8）\n        属性1  破甲/生命上限/法力上限+900\n        属性2  命中/伤害减免/格挡+150\n        属性3  剑类武器伤害、耐久/刀类武器伤害、耐久/长柄武器伤害+13%\n        属性4  劈砍攻击力/穿刺攻击力+15%\n进阶       升20星，升幅3%（×1.6）\n        属性1  20力量/20敏捷            \n        属性2  格挡/20命中/反击\n        属性3  26抵抗/无视免伤/免伤\n        属性4  26无视反击/致命/反击\n\n女神       升20星，升幅4%（×1.8）\n        属性1  法力上限/生命上限/破甲900\n        属性2  命中/躲闪/致命点+150（120）\n        属性3  火枪类伤害/重型武器伤害、耐久/远程武器伤害、耐久+13%\n        属性4  劈砍攻击力/穿刺攻击力+15%\n\n进阶       \n        属性1  吸血28/无视反击\n        属性2  无视格挡28\n        属性3  致命22/格挡0/免伤28\n        属性4  吸蓝28/命中22/\n\nMj衣服       升22星，升幅2%（×1.44）\n        属性1  法力/血量1941，20%\n        属性2  法力/血量1949，23%\n        属性3  魔命/魔命39%\n        属性4  魔命/魔命39%\n\nMj手套       升22星，升幅2%（×1.44）\n        属性1  血量/法力1698/生命上限22%\n        属性2  法力/生命/出手832\n        属性3  命中率40%，254命中\n        属性4  破甲/致命率20%\n\nMj头盔       升22星，升幅2%（×1.44）\n        属性1  法力/血量1332，18%\n        属性2  法力/血量1698，25%血\n        属性3  免伤246反击/反馈\n        属性4  免伤239反击/反馈\n\n三生石戒指       升22星，升幅3%（×1.66） \n        属性1  生命/法力750\n        属性2  无视状态抵抗/无视洞察/无视伤免100\n        属性3  合成反馈100/伤免100/状态100/洞察100/盾1\n        属性4  魔法命中/命中/致命80\n        属性5  伤免120/自动恢复180/盾1\n\n玲珑护手       升22星，升幅3%（×1.66）\n        属性1  出手400\n        属性2  格挡/闪避/命中280\n        属性3  敏捷12%\n        属性4  无视反击/无视免伤280\n        属性5  空手伤25%\n\n强暴的南瓜头盔       \n       属性1  合成属性无视抵抗/免伤150\n       属性2  枪/刀/剑攻次+2\n       属性3  劈砍/穿刺/魔法攻击力30%\n\n9级吞噬法书       \n       属性1  法力15%/法力1000\n       属性2  魔法命中/致命/躲闪250\n       属性3  合成属性无视伤免/无视洞察/无视反馈/无视状态抵抗250\n       属性4  感知、智力30%/法器伤害35%/法球攻次3\n       属性5  魔攻2100/35%魔攻\n\n抉择之刃（银）       18星，升幅3％（×1.54）\n       属性1  格挡／命中300，破甲1800\n       属性2  抵抗／免伤300，无视免伤猜测300\n       属性3  剑攻次＋2\n       属性4  穿刺／劈砍攻击力38％\n       属性5  剑伤35％\n\n控制破坏者-天蝎座       \n       属性1  破甲\n       属性2  无视免伤\n       属性3  火枪类武伤54%\n       属性4  力量\n       属性5  穿刺攻击力\n\n炽天使·射手座       18星，升幅3％（×1.54）\n       属性1  生命/法力888/闪避0\n       属性2  命中/致命/闪避60\n       属性3  合成无视伤免/无视状态抵抗300\n       属性4  无视洞察/无视格挡/无视反击300\n       属性5  穿刺攻击力15%\n\n神之宽恕       \n       属性1  破甲3542\n       属性2  无视免伤154\n       属性3  重型武伤+54%\n       属性4  力量25%\n       属性5  劈砍攻击力+54%\n\n喜羊羊☆（绑定升星）       升星幅度:4%\n       属性1  \n       属性2  洞察/反击/状态抵抗值/魔法反馈+220(合成鉴定属性)\n       属性3  洞察/反击/状态抵抗值/魔法反馈+220\n       属性4  躲闪/格挡/伤害减免+220/免伤护盾+1\n       技能  金羊开泰+10级\n       护甲:劈砍2000 穿刺2000 魔法2000\n       需求70级 耐久200/200\n       又萌又呆的绵羊坐骑，适合女生\\\n\n时空狮鹫       \n       属性1  血量\n       属性2  长柄武器伤害60%\n       属性3  命中482\n       属性4  穿刺攻击力60%\n\n霹雳摩托       升18星 升星幅度4%（×1.72）\n       属性1  出手速度，破甲，生命 (+2000) \n       属性2  合成剑伤，枪伤，空气伤 (+30％) \n       属性3  无视反击，无视伤害减免，致命 (+250) \n       属性4  穿刺攻击力+50％\n\n浴血凤凰       升18星 升星幅度4%（×1.72）\n       属性1  出手/血量2200\n       属性2  洞察300\n       属性3  无视洞察/无视抵抗/无视免伤300\n       属性4  抵抗/伤害减免300\n\n炽焰朱雀       升17星  升星幅度4%（×1.68）\n       属性1  出手/生命2300\n       属性2  状态/无视抵抗/格挡无视300\n       属性3  300魔法反馈/300闪避/250无视状态抵抗\n       属性4  伤免300/免伤护盾3\n\n变形金刚·擎天柱（满星）       升星幅度:4%\n       属性1  抵抗492 反击/闪避/抵抗300\n       属性2  合成属性洞察328 \n       属性3  免伤300/3盾\n       属性4  劈防/魔防/穿防45%\n\n机械先驱       升17星  升星幅度4%（×1.68）\n       属性1  法力\n       属性2  37%火枪类武伤\n       属性3  格挡/无视格挡\n       属性4  46%穿刺攻击力\n\n棒棒糖·蓝色妖姬\n       属性1  出手1678%\n       属性2  无视洞察106\n       属性3  无视抵抗453\n       属性4  致命率5%\n       属性5  穿刺攻击力41%\n\n水晶先锋·致命毒蝎       升17星  升星幅度:4%（×1.68）\n       属性1  破甲1800\n       属性2  38*武伤\n       属性3  38%穿刺攻击力\n       属性4  无视格挡/免伤412\n\n\n帝王·美人蝎       升17星  升星幅度:4%（×1.68）\n       属性1  破甲1800\n       属性2  远程武器伤害38%\n       属性3  无视反击412/无视免伤/无视格挡\n       属性4  穿刺攻击力38%\n\n轻语法杖       升17星  升星幅度:3%（×1.51）\n       属性1  257魔命\n       属性2  300无视洞察/免伤\n       属性3  300无视洞察/免伤\n\n放逐之刃       升17星  升星幅度:3%（×1.51）\n       属性1  破甲1800\n       属性2  命中250/格挡\n       属性3  刀伤33%/用刀攻次+2\n       属性4  力量33%\n       属性5  劈砍攻击力45%\n\n葬送       升18星  升星幅度:4%（×1.72）\n       属性1  出手12%\n       属性2  敏捷10%88\n       属性3  命中10%\n       属性4  无视抵抗/无视格挡/无视免伤/无视反击200\n       属性5  武器伤害13%/空手20%\n\n康乃馨       \n       属性1  生命/魔命188\n       属性2  致命216\n       属性3  魔穿41%/法力护盾/无视反馈267\n       属性4  魔攻41%/闪避221\n\n抉择金\n       属性1  破甲1800\n       属性2  命中300/致命300\n       属性3  无视免伤200\n       属性4  剑伤38%/格挡250\n       属性5  穿刺攻击力30%\n\n棉花糖\n       属性1  法力\n       属性2  抵抗\n       属性3  无视洞察\n       属性4  出手%\n\n流星腿  80级       升12星  升星幅度4%（×1.48）\n       属性1  法力/生命 /破甲 1500            \n       属性2  命中/格挡/闪避200\n       属性3  合成属性，无视免伤/无视反击280\n       属性4  无视格挡/无视反击/无视免伤280\n       属性5  刀伤/长柄伤/火枪/剑伤21%\n\n流星指环（水）  80级       升12星  升星幅度4%（×1.48）\n       属性1  血量300\n       属性2  魔命130/无视洞察\n       属性3  魔命130/无视洞察\n       属性4  各武器攻次+1\n\n流星指环（金）  80级\n       属性1  法力/血\n       属性2  无视抵抗/无视格挡\n       属性3  无视免伤/无视抵抗/无视反馈\n       属性4  各武器攻次+1\n\n流星指环（火）  80级       升12星  升星幅度4%（×1.48）\n       属性1  法力/血\n       属性2  洞察130/命中130\n       属性3  洞察130/命中130\n       属性4  各武器攻次+1\n\n流星岁月鞋  80级       升12星  升星幅度4%（×1.48）\n       属性1  闪避/洞察320/穿防5000              \n       属性2  免伤320/格挡320/劈防5000\n       属性3  抵抗320/魔防5000\n       属性4  反馈300/反击300/免伤护盾1\n\n感恩  80级       升12星  升星幅度5%（×1.6）\n       属性1  魔防25%，蓝/血1000，智力/敏捷/感知/体质/力量30，闪避/致命30，破甲/魔命10%\n       属性2  蓝/血1000，穿刺/魔攻18%，感知/力量/体质30，感知/力量/体质13%，命中/致命/躲闪/魔命40，破甲10%，\n       属性3  武伤12%（不详）\n       属性4  敏捷/智力13%，蓝/血1000，敏捷/智力30，魔防/穿防/劈防1200，魔命/命中/闪避/致命35，劈砍18%，蓝11%，格挡13%，致命率10%\n       属性5  智力/敏捷/感知/体质/力量13%，智力/敏捷/感知/体质/力量30，格挡13%，致命率10%",
       "strategyAuthor": "精选文章转载",
       "date": "2023-07-10T02:53:32.453Z",
       "reprint": false,
@@ -112601,7 +112601,7 @@
     {
       "id": "cae1",
       "name": "大额礼包奖励周期表",
-      "article": "第一期:弓灵+能天使+狮鹫+飞马+青铜\n\n第二期:焰魂+金甲+苍蓝+剑刃+狐妖\n\n第三期:大圣+暴走+时空+魔炎+黑斗\n\n第四期:狮王+虚空+鼻血+天马+金属\n\n第五期:魔剑+守护+铁甲+装甲+夜行\n\n第六期:猫女+灯灵+木甲+机械+自由\n\n第七期:告命+钢铁+摩托+猎魔+猎魔\n\n第八期:蓝龙+魔法+神圣+白羊+超能",
+      "article": "第一期:弓灵+能天使+狮鹫+飞马+青铜\n\n第二期:焰魂+金甲+苍蓝+剑刃+狐妖\n\n第三期:大圣+暴走+时空+魔炎+黑斗\n\n第四期:狮王+虚空+鼻血+天马+金属\n\n第五期:魔剑+守护+铁甲+装甲+夜行\n\n第六期:猫女+灯灵+木甲+机械+自由\n\n第七期:告命+钢铁+摩托+猎魔+猎魔\n\n第八期:蓝龙+魔法+神圣+白羊+超能\n\n大额礼包每周周二、周五更新,每周更新两次",
       "strategyAuthor": "精选文章转载",
       "date": "2024-10-03T06:52:16.909Z",
       "reprint": false,
@@ -112672,6 +112672,35 @@
       "oldName": "",
       "url": "",
       "id": "p7kowbA"
+    },
+    {
+      "name": "腾讯服头部商人影子私自觅下玩家找其代收物件",
+      "article": "大家好，抱着很不好的心情发表这一篇帖子，作为一个退游10年刚回游半年时光的老玩家，很幸运这款陪满青春的游戏还在很好的运营着，但是没想到世界这款老游戏腾讯服头部商人影子的做事准则如此恶劣。事情经过，在9月6日下午3点时分向头部商人商人影子代收筋斗云2碎片。她也是有答应在群里作为代收，到晚上7点左右时分有玩家也明确有筋斗云2出售，并且向腾讯头部商人影子发送发货邮件。然后本人找她咨询碎片的情况。等到的结果却是她要自留(合成再卖。赚多点又或者想涨价再卖给其他玩家)本身商人逐利能够理解。该有的手续费也是不会缺少。何况代收前影子也没有明确要求先付款。就私自留下，作为一个头部商人到现在没有任何一个明确说法。该有的信誉完全没有。唯利是图！此事件在群里发酵后。有另外玩家也是深得其害，向买家多报价。向卖家少报价。有手续费还要私自吃买卖双方回扣，态度异常恶劣。事件发酵后，群里还有恶劣发言。完全不把普通玩家当人来看，还将责任往其他友商身上甩，此帖子为2026，9月6日真实发生",
+      "strategyAuthor": "奸商登记册",
+      "date": "2026-09-12T13:57:47.572Z",
+      "reprint": true,
+      "oldName": "腾讯服头部商人影子私自觅下玩家找其代收物件",
+      "url": "https://tieba.baidu.com/p/11009978496?fr=frs",
+      "id": "RS4O8WR",
+      "unscrupulousMerchant": {
+        "evidencePath": "腾讯金商影子/代收截胡",
+        "evidenceImage": [
+          {
+            "evidence": [
+              "腾讯金商影子代收截胡.png",
+              "证据_1.jpg",
+              "证据_2.jpg",
+              "证据_3.jpg",
+              "证据_4.jpg",
+              "证据_5.jpg",
+              "证据_6.jpg",
+              "证据_7.jpg",
+              "证据_8.jpg"
+            ],
+            "describe": "腾讯金商影子代收截胡证据"
+          }
+        ]
+      }
     }
   ]
 }

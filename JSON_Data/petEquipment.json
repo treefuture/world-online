@@ -214,11 +214,11 @@
           "value": "petMagicAttackPowerPercentage"
         },
         {
-          "label": "魔法物理命中(魔命)",
+          "label": "魔法命中(魔命)",
           "value": "magicHit"
         },
         {
-          "label": "魔法物理命中(魔命)百分比",
+          "label": "魔法命中(魔命)百分比",
           "value": "magicHitPercentage"
         },
         {
@@ -327,7 +327,7 @@
         },
         {
           "label": "无视反击",
-          "value": "ignorecounterAttack"
+          "value": "ignoreCounterAttack"
         },
         {
           "label": "无视魔法反馈",

@@ -12,7 +12,7 @@
           "label": "1级力量附魔",
           "value": "1级力量附魔",
           "extraStrength": 5,
-          "ignorecounterAttack": 10,
+          "ignoreCounterAttack": 10,
           "attribute": [
             "额外力量+5",
             "无视反击+10"
@@ -30,7 +30,7 @@
           "label": "2级力量附魔",
           "value": "2级力量附魔",
           "extraStrength": 10,
-          "ignorecounterAttack": 20,
+          "ignoreCounterAttack": 20,
           "attribute": [
             "额外力量+10",
             "无视反击+20"
@@ -48,7 +48,7 @@
           "label": "3级力量附魔",
           "value": "3级力量附魔",
           "extraStrength": 15,
-          "ignorecounterAttack": 30,
+          "ignoreCounterAttack": 30,
           "attribute": [
             "额外力量+15",
             "无视反击+30"
@@ -66,7 +66,7 @@
           "label": "4级力量附魔",
           "value": "4级力量附魔",
           "extraStrength": 20,
-          "ignorecounterAttack": 40,
+          "ignoreCounterAttack": 40,
           "attribute": [
             "额外力量+20",
             "无视反击+40"
@@ -84,7 +84,7 @@
           "label": "5级力量附魔",
           "value": "5级力量附魔",
           "extraStrength": 25,
-          "ignorecounterAttack": 50,
+          "ignoreCounterAttack": 50,
           "attribute": [
             "额外力量+25",
             "无视反击+50"
@@ -102,7 +102,7 @@
           "label": "6级力量附魔",
           "value": "6级力量附魔",
           "extraStrength": 35,
-          "ignorecounterAttack": 60,
+          "ignoreCounterAttack": 60,
           "attribute": [
             "额外力量+35",
             "无视反击+60"
@@ -120,7 +120,7 @@
           "label": "7级力量附魔",
           "value": "7级力量附魔",
           "extraStrength": 50,
-          "ignorecounterAttack": 100,
+          "ignoreCounterAttack": 100,
           "attribute": [
             "额外力量+50",
             "无视反击+100"
@@ -138,7 +138,7 @@
           "label": "8级力量附魔",
           "value": "8级力量附魔",
           "extraStrength": 65,
-          "ignorecounterAttack": 150,
+          "ignoreCounterAttack": 150,
           "attribute": [
             "额外力量+65",
             "无视反击+150"
@@ -1361,7 +1361,7 @@
         {
           "label": "1级武伤附魔",
           "value": "1级武伤附魔",
-          "ignorecounterAttack": 10,
+          "ignoreCounterAttack": 10,
           "attribute": [
             "无视反击+10"
           ],
@@ -1377,7 +1377,7 @@
         {
           "label": "2级武伤附魔",
           "value": "2级武伤附魔",
-          "ignorecounterAttack": 20,
+          "ignoreCounterAttack": 20,
           "attribute": [
             "无视反击+20"
           ],
@@ -1393,7 +1393,7 @@
         {
           "label": "3级武伤附魔",
           "value": "3级武伤附魔",
-          "ignorecounterAttack": 30,
+          "ignoreCounterAttack": 30,
           "attribute": [
             "无视反击+30"
           ],
@@ -1409,7 +1409,7 @@
         {
           "label": "4级武伤附魔",
           "value": "4级武伤附魔",
-          "ignorecounterAttack": 50,
+          "ignoreCounterAttack": 50,
           "attribute": [
             "无视反击+50"
           ],
@@ -1425,7 +1425,7 @@
         {
           "label": "5级武伤附魔",
           "value": "5级武伤附魔",
-          "ignorecounterAttack": 70,
+          "ignoreCounterAttack": 70,
           "attribute": [
             "无视反击+70"
           ],
@@ -1442,7 +1442,7 @@
           "label": "6级武伤附魔",
           "value": "6级武伤附魔",
           "weaponDamage": 1,
-          "ignorecounterAttack": 100,
+          "ignoreCounterAttack": 100,
           "attribute": [
             "武器伤害、耐久+1%",
             "无视反击+100"
@@ -1460,7 +1460,7 @@
           "label": "7级武伤附魔",
           "value": "7级武伤附魔",
           "weaponDamage": 2,
-          "ignorecounterAttack": 150,
+          "ignoreCounterAttack": 150,
           "attribute": [
             "武器伤害、耐久+2%",
             "无视反击+150"
@@ -1478,7 +1478,7 @@
           "label": "8级武伤附魔",
           "value": "8级武伤附魔",
           "weaponDamage": 5,
-          "ignorecounterAttack": 200,
+          "ignoreCounterAttack": 200,
           "attribute": [
             "武器伤害、耐久+5%",
             "无视反击+200"
